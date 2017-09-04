@@ -1,5 +1,7 @@
 # Notes on Deep Learning
 
+These notes are based on an excellent [YouTube videos](https://www.youtube.com/watch?v=b99UVkWzYTQ)
+
 - GEOFF HILTON {Father of DNN}
 - MLP {Multi Layered Perceptron} -> Vanialla Neural Network
 - Problem of Vanishing Gradient {This is what RBM Solves}
@@ -35,7 +37,7 @@
 
 - Machine Vision is where CNN is used
 - ImageNet competition
-- Andrej Karpathy's Note {http://cs231n.github.io/}
+- [Andrej Karpathy's Note](http://cs231n.github.io/)
 - Layers:
     - Convolution Layer
         - Technical Operation {Convolution} to search for pattern
