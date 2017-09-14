@@ -1,4 +1,4 @@
-# Notes on Automated testing via Selenium {In Python}
+# Notes on Automated testing via Selenium {In Django/Python}
 
 [Functional Testing](https://en.wikipedia.org/wiki/Functional_testing) as defined by Wikipedia: 
 
@@ -24,6 +24,7 @@
 1. TestCase:
 1. setUp and tearDown
 1. BaseTestCase:
+1. Validator
 1. Role:
 1. Fixture: 
 1. Migrations:
@@ -31,20 +32,18 @@
 
 ## Useful assertions that will help testing
 
+### 
 1. 
 1. 
 1.
 1. 
 
-## Building Test Cases
-
-1. 
 
 ## Running in Headless mode
 
 1. 
 
-##  
+
 ## Organizing your test suite
 
 1. 
