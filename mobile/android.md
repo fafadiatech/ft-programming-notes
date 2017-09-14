@@ -56,12 +56,25 @@
 - [Android resource selectors](http://www.vogella.com/tutorials/AndroidResourceSelection/article.html)
 - [Using animations in Android application](http://www.vogella.com/tutorials/AndroidAnimation/article.html)
 
+
+## Kotlin
+
+1. [Kotlin Language Documentation](https://kotlinlang.org/docs/kotlin-docs.pdf)
+1. [Kotlin Cheatsheet](https://www.ekito.fr/people/wp-content/uploads/2016/11/Kotlin-Cheat-Sheet-by-ekito-1.2.pdf)
+1. [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
+1. [Introduction to Kotlin Co-routines](http://www.baeldung.com/kotlin-coroutines)
+1. [Data Classes Kotlin](https://medium.com/@DarrenAtherton/intro-to-data-classes-in-kotlin-7f956d54365c)
+1. [](https://engineering.kitchenstories.io/data-classes-and-parsing-json-a-story-about-converting-models-to-kotlin-caf8a599df9e)
+1. [Kedit Tutorial](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+1. [Morden Development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
+1. [Kotlin on Medium](https://medium.com/tag/kotlin)
+1. [Kotlin Development](https://www.kotlindevelopment.com/)
+
 ## Resources
 
 1. [Vogella Android Tutorials](http://www.vogella.com/tutorials/android.html) 
 1. [Google's Official Android Training](https://developer.android.com/training/index.html)
 1. [Reddit Android Dev](https://www.reddit.com/r/androiddev/) 
-1. [Kotlin Development](https://www.kotlindevelopment.com/)
 1. [Android Development Community on Medium](https://medium.com/tag/android-app-development)
 1. [Android Weekly](http://androidweekly.net/)
 1. [Awesome Android](https://github.com/JStumpp/awesome-android#charts)
