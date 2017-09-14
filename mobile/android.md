@@ -10,6 +10,7 @@
 - [Using Databinding in Android applications](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
 - [Using lists in Android (ListView)](http://www.vogella.com/tutorials/AndroidListView/article.html)
 - [Android Logging](http://www.vogella.com/tutorials/AndroidLogging/article.html)
+- [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ## Intermediate Android
 
