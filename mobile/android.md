@@ -43,7 +43,7 @@
 - [Using the Android Debug Bridge (adb)](http://www.vogella.com/tutorials/AndroidCommandLine/article.html)
 
 ## Advanced Android
-
+- [Publish Your App](https://developer.android.com/studio/publish/index.html)
 - [Android Architecture with MVP or MVVM](http://www.vogella.com/tutorials/AndroidArchitecture/article.html)
 - [Downloading and handling images in Android applications with Glide](http://www.vogella.com/tutorials/AndroidHandlingImages/article.html)
 - [Android - Using drag and drop in your application](http://www.vogella.com/tutorials/AndroidDragAndDrop/article.html)
@@ -65,3 +65,4 @@
 1. [Android Development Community on Medium](https://medium.com/tag/android-app-development)
 1. [Android Weekly](http://androidweekly.net/)
 1. [Awesome Android](https://github.com/JStumpp/awesome-android#charts)
+1. [Awesome Android Performance](https://github.com/Juude/awesome-android-performance)
