@@ -21,6 +21,7 @@
 - [JSON in Android - Tutorial](http://www.vogella.com/tutorials/AndroidJSON/article.html)
 - [Android background processing with Handlers, AsyncTask and Loaders - Tutorial](http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html)
 - [Android Services](http://www.vogella.com/tutorials/AndroidServices/article.html)
+- [Android Task Scheduling](http://www.vogella.com/tutorials/AndroidTaskScheduling/article.html)
 - [Interacting with Other Applications](https://developer.android.com/training/index.html)
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)
 - [Android Notifications](http://www.vogella.com/tutorials/AndroidNotifications/article.html)
