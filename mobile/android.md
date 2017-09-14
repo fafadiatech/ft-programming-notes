@@ -16,6 +16,7 @@
 - [Building a Dynamic UI with Fragments](https://developer.android.com/training/basics/fragments/index.html)
 - [Supporting Different Devices](https://developer.android.com/training/basics/supporting-devices/index.html)
 - [Implementing Effective Navigation](https://developer.android.com/training/implementing-navigation/index.html)
+- [Adding Swipe-to-Refresh To Your App](https://developer.android.com/training/swipe/add-swipe-interface.html)
 - [Saving Data](https://developer.android.com/training/basics/data-storage/index.html)
 - [Using Retrofit 2.x as REST client - Tutorial](http://www.vogella.com/tutorials/Retrofit/article.html)
 - [JSON in Android - Tutorial](http://www.vogella.com/tutorials/AndroidJSON/article.html)
@@ -91,3 +92,4 @@ Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcodi
 1. [Android Line Chart using MpAndroidChart Tutorial](https://www.numetriclabz.com/android-line-chart-using-mpandroidchart-tutorial/)
 1. [Getting started with Fresco](http://frescolib.org/docs/index.html)
 1. [RxAndroid Tutorial](https://www.raywenderlich.com/141980/rxandroid-tutorial)
+1. [ViewPager with vertical Swiping ability](https://medium.com/@jimitpatel/viewpager-with-vertical-swiping-ability-e40200094281)
