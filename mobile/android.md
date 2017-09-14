@@ -10,7 +10,7 @@
 - [Using Databinding in Android applications](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
 - [Using lists in Android (ListView)](http://www.vogella.com/tutorials/AndroidListView/article.html)
 - [Android Logging](http://www.vogella.com/tutorials/AndroidLogging/article.html)
-- [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+
 
 ## Intermediate Android
 
@@ -74,6 +74,19 @@
 1. [Kotlin on Medium](https://medium.com/tag/kotlin)
 1. [Kotlin Development](https://www.kotlindevelopment.com/)
 
+## Tools
+
+1. [Dryrun](https://github.com/cesarferreira/dryrun)
+1. [Progaurd](https://developer.android.com/studio/build/shrink-code.html)
+1. [sentry-java](https://github.com/getsentry/sentry-java)
+1. [Firebase crash report](https://firebase.google.com/docs/crash/android)
+1. [Drone](https://github.com/cesarferreira/drone)
+
+## Coding Style Guides
+1. [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+1. [Ribot's Project and Code Guide](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
+1. [AOSP Java Code Style for Contributors](https://source.android.com/source/code-style)
+
 ## Resources
 
 1. [Vogella Android Tutorials](http://www.vogella.com/tutorials/android.html) 
@@ -84,9 +97,12 @@
 1. [Awesome Android](https://github.com/JStumpp/awesome-android#charts)
 1. [Awesome Android Performance](https://github.com/Juude/awesome-android-performance)
 1. [Android Arsenel](https://android-arsenal.com/)
+1. [Opensource Android Applications](https://github.com/pcqpcq/open-source-android-apps)
 
 ## Interesting Blog Posts
 
+1. [30+ Bite-Sized Pro Tips to Become a Better Android Developer](https://blog.aritraroy.in/30-bite-sized-pro-tips-to-become-a-better-android-developer-b311fd641089)
+1. [What 2 Years of Android Development Have Taught Me the Hard Way](https://blog.aritraroy.in/what-my-2-years-of-android-development-have-taught-me-the-hard-way-52b495ba5c51)
 1. [How to Use FontAwesome in an Android App](https://code.tutsplus.com/tutorials/how-to-use-fontawesome-in-an-android-app--cms-24167)
 1. [Android QR Code Scanner Tutorial using Zxing Library
 Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcoding.net/android-qr-code-scanner-tutorial/)
@@ -94,3 +110,8 @@ Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcodi
 1. [Getting started with Fresco](http://frescolib.org/docs/index.html)
 1. [RxAndroid Tutorial](https://www.raywenderlich.com/141980/rxandroid-tutorial)
 1. [ViewPager with vertical Swiping ability](https://medium.com/@jimitpatel/viewpager-with-vertical-swiping-ability-e40200094281)
+1. [Android Search to RecyclerView Tutorial](https://www.studytutorial.in/android-search-to-recyclerview-tutorial)
+1. [Android Responsive UI](https://www.youtube.com/watch?v=LyXWNxKPg50)
+1. [Responsive UI Tutorial](https://www.raywenderlich.com/155838/responsive-ui-tutorial-android)
+1. [Building a Responsive UI in Android](https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3)
+1. [Android Studio 2.2 Constraint Layouts For Beginners](https://www.youtube.com/watch?v=z53Ed0ddxgM)
