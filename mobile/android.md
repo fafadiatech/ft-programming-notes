@@ -27,6 +27,8 @@
 - [Android Notifications](http://www.vogella.com/tutorials/AndroidNotifications/article.html)
 - [Android Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)
 - [Android Awesome UI](https://github.com/wasabeef/awesome-android-ui)
+- [Requesting Permission at Run Time](https://developer.android.com/training/permissions/requesting.html)
+- [Adding 3rd Party Libary to Android Project](http://o7planning.org/en/10525/how-to-add-external-libraries-to-android-project-in-android-studio)
 
 ## Android Testing
 
@@ -79,3 +81,13 @@
 1. [Android Weekly](http://androidweekly.net/)
 1. [Awesome Android](https://github.com/JStumpp/awesome-android#charts)
 1. [Awesome Android Performance](https://github.com/Juude/awesome-android-performance)
+1. [Android Arsenel](https://android-arsenal.com/)
+
+## Interesting Blog Posts
+
+1. [How to Use FontAwesome in an Android App](https://code.tutsplus.com/tutorials/how-to-use-fontawesome-in-an-android-app--cms-24167)
+1. [Android QR Code Scanner Tutorial using Zxing Library
+Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcoding.net/android-qr-code-scanner-tutorial/)
+1. [Android Line Chart using MpAndroidChart Tutorial](https://www.numetriclabz.com/android-line-chart-using-mpandroidchart-tutorial/)
+1. [Getting started with Fresco](http://frescolib.org/docs/index.html)
+1. [RxAndroid Tutorial](https://www.raywenderlich.com/141980/rxandroid-tutorial)
