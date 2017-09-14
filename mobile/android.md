@@ -11,6 +11,7 @@
 - [Using lists in Android (ListView)](http://www.vogella.com/tutorials/AndroidListView/article.html)
 - [Android Logging](http://www.vogella.com/tutorials/AndroidLogging/article.html)
 - [Android Camera](https://yueshen.blog/2017/03/28/android-custom-camera%E4%B8%80/)
+- [Andrioid Studio Keyboard Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
 
 ## Intermediate Android
 
@@ -59,6 +60,14 @@
 - [Creating custom and compound Views in Android](http://www.vogella.com/tutorials/AndroidCustomViews/article.html)
 - [Android resource selectors](http://www.vogella.com/tutorials/AndroidResourceSelection/article.html)
 - [Using animations in Android application](http://www.vogella.com/tutorials/AndroidAnimation/article.html)
+
+## RxJava
+
+1. [RxJava Introduction](https://www.youtube.com/watch?v=GLXmg_KUuOI)
+1. [Why you should use RxJava in Android a short introduction to RxJava](http://blog.feedpresso.com/2016/01/25/why-you-should-use-rxjava-in-android-a-short-introduction-to-rxjava.html)
+1. [Understanding the enigma of RxJava (Part 1)](https://hackernoon.com/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de)
+1. [Meet RxJava: The Missing Reactive Programming Library for Android](https://www.toptal.com/android/functional-reactive-android-rxjava)
+1. [Functional Programming for Beginners](https://www.youtube.com/watch?v=vLmaZxegahk)
 
 
 ## Kotlin
