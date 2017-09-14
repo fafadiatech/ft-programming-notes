@@ -12,6 +12,9 @@
 - [Android Logging](http://www.vogella.com/tutorials/AndroidLogging/article.html)
 - [Android Camera](https://yueshen.blog/2017/03/28/android-custom-camera%E4%B8%80/)
 - [Andrioid Studio Keyboard Shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts.html)
+- [Action Bar](https://developer.android.com/design/patterns/actionbar.html)
+- [Bottom Navigation View](https://blog.stylingandroid.com/bottomnavigationview/)
+
 
 ## Intermediate Android
 
@@ -97,6 +100,7 @@
 1. [Ribot's Project and Code Guide](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 1. [AOSP Java Code Style for Contributors](https://source.android.com/source/code-style)
 1. [Common Android Views](http://labs.udacity.com/images/Common-Android-Views-Cheat-Sheet.pdf)
+1. [Layout Cheatsheet](http://www.facweb.iitkgp.ernet.in/~niloy/COURSE/Autumn2014/SmartPhone/Slides_2016/Layout.pdf)
 
 ## Resources
 
@@ -126,3 +130,4 @@ Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcodi
 1. [Responsive UI Tutorial](https://www.raywenderlich.com/155838/responsive-ui-tutorial-android)
 1. [Building a Responsive UI in Android](https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3)
 1. [Android Studio 2.2 Constraint Layouts For Beginners](https://www.youtube.com/watch?v=z53Ed0ddxgM)
+1. [Android Tinder Swipe View Example](https://blog.mindorks.com/android-tinder-swipe-view-example-3eca9b0d4794)
