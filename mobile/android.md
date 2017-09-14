@@ -68,11 +68,12 @@
 1. [Kotlin Koans](https://kotlinlang.org/docs/tutorials/koans.html)
 1. [Introduction to Kotlin Co-routines](http://www.baeldung.com/kotlin-coroutines)
 1. [Data Classes Kotlin](https://medium.com/@DarrenAtherton/intro-to-data-classes-in-kotlin-7f956d54365c)
-1. [](https://engineering.kitchenstories.io/data-classes-and-parsing-json-a-story-about-converting-models-to-kotlin-caf8a599df9e)
+1. [JSON Parsing Kotlin](https://engineering.kitchenstories.io/data-classes-and-parsing-json-a-story-about-converting-models-to-kotlin-caf8a599df9e)
 1. [Kedit Tutorial](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 1. [Morden Development with Kotlin](https://proandroiddev.com/modern-android-development-with-kotlin-september-2017-part-1-f976483f7bd6)
 1. [Kotlin on Medium](https://medium.com/tag/kotlin)
 1. [Kotlin Development](https://www.kotlindevelopment.com/)
+1. [Kotlin is the new Java](https://medium.freecodecamp.org/kotlin-is-the-new-java-16b35c5f54a2)
 
 ## Tools
 
