@@ -10,7 +10,7 @@
 - [Using Databinding in Android applications](http://www.vogella.com/tutorials/AndroidDatabinding/article.html)
 - [Using lists in Android (ListView)](http://www.vogella.com/tutorials/AndroidListView/article.html)
 - [Android Logging](http://www.vogella.com/tutorials/AndroidLogging/article.html)
-
+- [Android Camera](https://yueshen.blog/2017/03/28/android-custom-camera%E4%B8%80/)
 
 ## Intermediate Android
 
