@@ -15,7 +15,6 @@
 - [Action Bar](https://developer.android.com/design/patterns/actionbar.html)
 - [Bottom Navigation View](https://blog.stylingandroid.com/bottomnavigationview/)
 
-
 ## Intermediate Android
 
 - [Building a Dynamic UI with Fragments](https://developer.android.com/training/basics/fragments/index.html)
@@ -73,6 +72,13 @@
 1. [Meet RxJava: The Missing Reactive Programming Library for Android](https://www.toptal.com/android/functional-reactive-android-rxjava)
 1. [Functional Programming for Beginners](https://www.youtube.com/watch?v=vLmaZxegahk)
 1. [Lessons in RxJava](https://academy.realm.io/posts/learning-path-rxjava/)
+
+## Android Architecture
+
+- [MVC vs. MVP vs. MVVM on Android](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/)
+- [Guide to App Architecture](https://developer.android.com/topic/libraries/architecture/guide.html)
+- [Repository Pattern](https://martinfowler.com/eaaCatalog/repository.html)
+- [Android MVP Architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
 
 ## Kotlin
 
