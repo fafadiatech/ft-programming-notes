@@ -49,6 +49,7 @@
 - [Using Dagger 2 for dependency injection in Android](http://www.vogella.com/tutorials/Dagger/article.html)
 - [Android application (performance and more) analysis tools](http://www.vogella.com/tutorials/AndroidTools/article.html)
 - [Using the Android Debug Bridge (adb)](http://www.vogella.com/tutorials/AndroidCommandLine/article.html)
+- [Android Testing - Getting Started with Espresso 2.0](https://www.youtube.com/watch?v=TGU0B4qRlHY)
 
 ## Advanced Android
 - [Publish Your App](https://developer.android.com/studio/publish/index.html)
@@ -71,7 +72,7 @@
 1. [Understanding the enigma of RxJava (Part 1)](https://hackernoon.com/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de)
 1. [Meet RxJava: The Missing Reactive Programming Library for Android](https://www.toptal.com/android/functional-reactive-android-rxjava)
 1. [Functional Programming for Beginners](https://www.youtube.com/watch?v=vLmaZxegahk)
-
+1. [Lessons in RxJava](https://academy.realm.io/posts/learning-path-rxjava/)
 
 ## Kotlin
 
@@ -86,14 +87,21 @@
 1. [Kotlin on Medium](https://medium.com/tag/kotlin)
 1. [Kotlin Development](https://www.kotlindevelopment.com/)
 1. [Kotlin is the new Java](https://medium.freecodecamp.org/kotlin-is-the-new-java-16b35c5f54a2)
+1. [Kotlin in Depth](https://academy.realm.io/posts/learning-path-kotlin-in-depth/)
+1. [A 100% Kotlin on Android by Jeroen Tietema](https://www.youtube.com/watch?v=dnGX8NU0aKc)
 
-## Tools
+## Tools & Libraries
 
 1. [Dryrun](https://github.com/cesarferreira/dryrun)
 1. [Progaurd](https://developer.android.com/studio/build/shrink-code.html)
 1. [sentry-java](https://github.com/getsentry/sentry-java)
 1. [Firebase crash report](https://firebase.google.com/docs/crash/android)
 1. [Drone](https://github.com/cesarferreira/drone)
+1. [Facebook Infer](http://fbinfer.com/docs/hello-world.html#hello-world-android)
+1. [Litho](https://fblitho.com/)
+1. [Yoga](https://facebook.github.io/yoga/)
+1. [Redex](http://fbredex.com/)
+1. [Conceal](http://facebook.github.io/conceal/)
 
 ## Coding Style Guides
 1. [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -131,3 +139,8 @@ Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcodi
 1. [Building a Responsive UI in Android](https://medium.com/google-developers/building-a-responsive-ui-in-android-7dc7e4efcbb3)
 1. [Android Studio 2.2 Constraint Layouts For Beginners](https://www.youtube.com/watch?v=z53Ed0ddxgM)
 1. [Android Tinder Swipe View Example](https://blog.mindorks.com/android-tinder-swipe-view-example-3eca9b0d4794)
+1. [Building the F8 2016 App](http://makeitopen.com/)
+1. [Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8)
+1. [DevBytes: Efficient Data Transfers - Eliminating Polling with Google Cloud Messaging](https://www.youtube.com/watch?v=cJbGK6cVmSM&list=PLWz5rJ2EKKc-VJS9WQlj9xM_ygPopZ-Qd&index=5)
+1. [Synchronize Android data for online/offline app – [Sync Adapter]](https://mobiware.pt/blog/synchronize-android-data-online-offline-app/)
+1. [Android Architecture](https://academy.realm.io/posts/learning-path-android-architecture/) 
