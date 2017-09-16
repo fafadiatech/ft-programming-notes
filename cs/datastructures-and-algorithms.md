@@ -12,3 +12,6 @@
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
 1. [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 1. [Awesome CPP](https://github.com/gibsjose/cpp-cheat-sheet)
+1. [Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
+1. [Facebook Stack](http://malteschwarzkopf.de/research/assets/facebook-stack.pdf)
+1. [Operating system support for warehouse-scale computing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.1768&rep=rep1&type=pdf)
