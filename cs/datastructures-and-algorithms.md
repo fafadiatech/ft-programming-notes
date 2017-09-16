@@ -10,3 +10,5 @@
 1. [Awesome Courses](https://github.com/prakhar1989/awesome-courses#programming-languages--compilers)
 1. [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 1. [Systems Programming](https://github.com/angrave/SystemProgramming/wiki)
+1. [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
+1. [Awesome CPP](https://github.com/gibsjose/cpp-cheat-sheet)
