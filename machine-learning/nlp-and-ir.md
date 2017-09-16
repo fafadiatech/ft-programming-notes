@@ -6,6 +6,17 @@
 1. [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 1. [https://blog.algorithmia.com/introduction-natural-language-processing-nlp/](https://blog.algorithmia.com/introduction-natural-language-processing-nlp/)
 1. [Latent Semantic Analysis (LSA) for Text Classification Tutorial](http://mccormickml.com/2016/03/25/lsa-for-text-classification-tutorial/)
+1. [All the Linear Algebra You Need for AI](https://github.com/fastai/fastai/blob/master/tutorials/linalg_pytorch.ipynb)
+1. [Data Carpentry with NLTK and IPython](https://github.com/resbaz/nltk)
+1. [Scikit Notebooks](https://github.com/ogrisel/notebooks)
+1. [How to do things with words](https://github.com/norvig/pytudes/blob/master/How%20to%20Do%20Things%20with%20Words.ipynb)
+1. [TensorFlow Neural Machine Translation](https://github.com/tensorflow/nmt)
+
+## Libraries and Tools
+
+1. [AllenNLP](http://allennlp.org/)
+1. [gensim](https://radimrehurek.com/gensim/)
+1. [nltk](http://www.nltk.org/)
 
 ## Papers
 
