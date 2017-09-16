@@ -2,6 +2,7 @@
 
 ## Reference:
 
+1. [Big O Cheatsheet](http://bigocheatsheet.com/)
 1. [Datastrcutures from David Kempe, USC](http://www-scf.usc.edu/~csci104/20142/lectures/DataStructures.pdf)
 1. [Google Interview University](https://github.com/jgwhite/google-interview-university)
 1. [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -15,3 +16,5 @@
 1. [Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
 1. [Facebook Stack](http://malteschwarzkopf.de/research/assets/facebook-stack.pdf)
 1. [Operating system support for warehouse-scale computing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.1768&rep=rep1&type=pdf)
+1. [Application of Binary Search Trees](https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
+1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)

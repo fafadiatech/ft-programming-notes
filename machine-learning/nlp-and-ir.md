@@ -11,6 +11,7 @@
 1. [Scikit Notebooks](https://github.com/ogrisel/notebooks)
 1. [How to do things with words](https://github.com/norvig/pytudes/blob/master/How%20to%20Do%20Things%20with%20Words.ipynb)
 1. [TensorFlow Neural Machine Translation](https://github.com/tensorflow/nmt)
+1. [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
 
 ## Libraries and Tools
 
