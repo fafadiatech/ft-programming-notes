@@ -2,6 +2,7 @@
 
 ## References
 
+1. [Wikipedia: Algorithmic Trading](https://en.wikipedia.org/wiki/Algorithmic_trading)
 1. [Quantitative Finance Articles List](https://www.quantstart.com/articles)
 1. [Quantopian Tutorial](https://www.quantopian.com/tutorials/getting-started#lesson1)
 1. [Python for Finance](https://www.datacamp.com/community/tutorials/finance-python-trading#gs.7SPpyLc)
@@ -9,6 +10,7 @@
 1. [Basics of Algorithmic Trading: Concepts and Examples](http://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
 1. [Algorithmic Trading Glossary](http://www.automatedtrader.net/glossary/)
 1. [A - Z List of Trading Strategies](http://www.optionstrading.org/strategies/a-z-list/)
+1. [How Trading System Functions](https://www.quantinsti.com/blog/trading-systems-architecture/)
 
 ## Quantopian Algorithm Building
 
