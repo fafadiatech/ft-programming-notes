@@ -86,4 +86,9 @@ These notes are based on an excellent [YouTube videos](https://www.youtube.com/w
     - Parsing
     - Sentiement Analysis
 - Image Parsing {Break Image into many different components}
-        
+
+## Fast.ai
+
+[Fast.ai](http://course.fast.ai/index.html) is an online free course for deep learning. Following is quote from their official website
+
+>>Welcome to fast.ai's 7 week course, Practical Deep Learning For Coders, Part 1, taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free!
