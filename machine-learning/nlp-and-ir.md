@@ -14,3 +14,5 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Natural Language Processing (almost) from Scratch](https://arxiv.org/pdf/1103.0398.pdf)
 1. [Automatic Extraction of Facts, Relations, and Entities for Web-Scale Knowledge Base Population](http://nakashole.com/papers/2012-phd-thesis.pdf)
 1. [Google Sets Patent: System and methods for automatically creating lists](https://www.google.com/patents/US7350187)
+1. [Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
+1. [Robo-Advisors: A Portfolio Management Prespectic](http://economics.yale.edu/sites/default/files/files/Undergraduate/Nominated%20Senior%20Essays/2015-16/Jonathan_Lam_Senior%20Essay%20Revised.pdf)
