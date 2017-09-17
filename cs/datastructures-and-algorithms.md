@@ -1,6 +1,6 @@
 # Notes on Datastructures and Algorithms
 
-## Reference:
+## Reference
 
 1. [Big O Cheatsheet](http://bigocheatsheet.com/)
 1. [Datastrcutures from David Kempe, USC](http://www-scf.usc.edu/~csci104/20142/lectures/DataStructures.pdf)
@@ -18,3 +18,29 @@
 1. [Operating system support for warehouse-scale computing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.1768&rep=rep1&type=pdf)
 1. [Application of Binary Search Trees](https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
 1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
+1. [Standard Template Library](http://web.eng.fiu.edu/watsonh/eel3160/Lectures/STL-Lectures.pdf)
+
+## Dynamic Programming
+
+- Dynamic Programming is class of problems that have following properties:
+    1. Objective Function and Constraints {Maximize Value Given Some Condition}
+    1. State {Each problem have control variables}
+    1. Sub Structure {Problem can be divided into sub-problems}
+    1. Decision Point {At each step you're trying to minimize/mazimize something}
+- Dynamic Programming can furthure be divided into:
+    1. Top Down Approach: Start with  solving the problem. If sub-problem is already solved return the result {This technique uses Memoization}
+    1. Bottom Up Approach: Start with sub-problems/trivial cases and build final solution
+- Common Patterns in Dynamic Programming:
+[What are the top 10 most popular dynamic programming problems among interviewers?](https://www.quora.com/What-are-the-top-10-most-popular-dynamic-programming-problems-among-interviewers)
+    1. 0/1 Knapsack Problem
+    1. Coin Changing Problem: Given collection of coin denomination {with infinite supply} and a total value, find minimum number of coins needed to realize total value
+    1. Longest Increasing Subsequence: Given an array, find the sub-sequence of numbers with increasing value
+    1. Min Edit Distance: Given two strings, how many edits would it take to convert strings
+    1. Longest Common Subsequence: Given two strings find subsequnce of longest common sub-sequence
+    1. Text Juxtification: Given a string and width how would you adjust the string so that each line fits within that width
+    1. Word Break Problem: You are given a long word and a dictionary, find if long wod is present in dictionary
+    1. Sting interleaving problem: Given 3 strings see if a combination of 2 strings produce 3 strings
+    1. Subset sum problem: You are given 
+- Other References:
+    1. [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+    1. [DP Zoo Tour](http://blog.ezyang.com/2010/11/dp-zoo-tour/)

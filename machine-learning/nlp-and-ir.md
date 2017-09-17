@@ -12,6 +12,7 @@
 1. [How to do things with words](https://github.com/norvig/pytudes/blob/master/How%20to%20Do%20Things%20with%20Words.ipynb)
 1. [TensorFlow Neural Machine Translation](https://github.com/tensorflow/nmt)
 1. [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
+1. [Web Information Retrieval](http://sci2s.ugr.es/sites/default/files/files/linksInterest/Tutorials/icde.pdf)
 
 ## Libraries and Tools
 
@@ -28,3 +29,8 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Google Sets Patent: System and methods for automatically creating lists](https://www.google.com/patents/US7350187)
 1. [Knowledge Vault: A Web-Scale Approach to Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 1. [Robo-Advisors: A Portfolio Management Prespectic](http://economics.yale.edu/sites/default/files/files/Undergraduate/Nominated%20Senior%20Essays/2015-16/Jonathan_Lam_Senior%20Essay%20Revised.pdf)
+1. [FPGA-based Accelerators for “Learning to Rank” in Web Search Engines](http://www.cs.cmu.edu/~dst/NIPS/nips08-workshop/Ning-Yi_Xu.pdf)
+
+## Blog Articles
+
+1. [Chips Off the Old Block: Computers Are Taking Design Cues From Human Brains](https://www.nytimes.com/2017/09/16/technology/chips-off-the-old-block-computers-are-taking-design-cues-from-human-brains.html)
