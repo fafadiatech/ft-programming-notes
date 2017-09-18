@@ -13,6 +13,8 @@
 1. [TensorFlow Neural Machine Translation](https://github.com/tensorflow/nmt)
 1. [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
 1. [Web Information Retrieval](http://sci2s.ugr.es/sites/default/files/files/linksInterest/Tutorials/icde.pdf)
+1. [Frame Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
+1. [Rule Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
 
 ## Libraries and Tools
 
