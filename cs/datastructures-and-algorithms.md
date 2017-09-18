@@ -19,6 +19,7 @@
 1. [Application of Binary Search Trees](https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
 1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
 1. [Standard Template Library](http://web.eng.fiu.edu/watsonh/eel3160/Lectures/STL-Lectures.pdf)
+1. [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
 
 ## Dynamic Programming
 
