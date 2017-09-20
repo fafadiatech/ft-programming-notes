@@ -1,5 +1,16 @@
 # Notes on Python programming language
 
+## General Python Related Articles
+
+1. [Python Tips Book](http://book.pythontips.com/en/latest/)
+
+## Advanced 
+
+1. [Python C Extension](http://book.pythontips.com/en/latest/python_c_extension.html) {Include Ctypes, Swig and Python C APIs}
+1. [Extending with C](https://en.wikibooks.org/wiki/Python_Programming/Extending_with_C)
+1. [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
+1. [Python modules in C](http://dfm.io/posts/python-c-extensions/)
+
 ## Blog Articles
 
 1. [A guide to logging in Python](https://opensource.com/article/17/9/python-logging)
