@@ -21,6 +21,15 @@
 1. [Standard Template Library](http://web.eng.fiu.edu/watsonh/eel3160/Lectures/STL-Lectures.pdf)
 1. [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
 
+## C++ Programming
+
+1. [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
+1. [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html#slow-containers)
+1. [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+1. [C++ Node.js integration](https://nodeaddons.com/c-processing-from-node-js/)
+1. [googletest](https://github.com/google/googletest/blob/master/googlemock/docs/ForDummies.md)
+1. [Learning C++](https://blog.tartanllama.xyz/learning-cpp/)
+
 ## Dynamic Programming
 
 - Dynamic Programming is class of problems that have following properties:

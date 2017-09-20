@@ -37,3 +37,4 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 
 1. [Chips Off the Old Block: Computers Are Taking Design Cues From Human Brains](https://www.nytimes.com/2017/09/16/technology/chips-off-the-old-block-computers-are-taking-design-cues-from-human-brains.html)
 1. [A First Exercise in Natural Language Processing with Python: Counting Hapaxes](http://catswhisker.xyz/log/2017/9/7/a_first_excercise_in_natural_language_processing_with_python_counting_hapaxes/#_stemming_and_lemmatization)
+1. [Topic Suggestions for Millions of Repositories](https://githubengineering.com/topics/)
