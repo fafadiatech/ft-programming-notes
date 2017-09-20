@@ -4,6 +4,10 @@
 
 1. [Python Tips Book](http://book.pythontips.com/en/latest/)
 
+## Intermedia
+
+1. [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+
 ## Advanced 
 
 1. [Python C Extension](http://book.pythontips.com/en/latest/python_c_extension.html) {Include Ctypes, Swig and Python C APIs}
@@ -11,6 +15,8 @@
 1. [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
 1. [Python modules in C](http://dfm.io/posts/python-c-extensions/)
 1. [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
+1. [Python Dependency Injection](http://www.aleax.it/yt_pydi.pdf)
+1. [Design Patterns in Python](http://www.aleax.it/gdd_pydp.pdf)
 
 ## Blog Articles
 
