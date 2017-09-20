@@ -18,7 +18,7 @@
         - Make sure you have right prefixed settings "DJANGO_SOMETHING_SOMETHING"
         - Friendly upgrade policy
             - Use deprecation warnings before removing
-            - Use semantic versioning
+            - Use [semantic versioning](http://semver.org/)
     - Easy to use
         - Provide Documentation
             - Write docs **first** 
