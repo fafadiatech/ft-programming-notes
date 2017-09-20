@@ -10,6 +10,7 @@
 1. [Extending with C](https://en.wikibooks.org/wiki/Python_Programming/Extending_with_C)
 1. [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
 1. [Python modules in C](http://dfm.io/posts/python-c-extensions/)
+1. [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
 
 ## Blog Articles
 
