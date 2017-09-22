@@ -3,6 +3,8 @@
 ## Course
 
 1. [Udacity Android Course](https://www.youtube.com/watch?v=2Wo_QfQZ0lE&list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S)
+1. [Systems Programming for Android](https://www.youtube.com/watch?v=lHbIwoevePE&list=PLZ9NgFYEMxp50tvT8806xllaCbd31DpDy)
+1. [Complete Android N Developer Course](https://www.youtube.com/watch?v=CV0IvgW9TH0&list=PLePs5GNPwrnwMlophYnazWnEYi_jABsUK)
 
 ## Android fundamentals
 

@@ -35,10 +35,19 @@
             - `Query.get_compiler()` return SQLCompiler
             - Which calls `compiler()` method of DatabaseOperations, passing the name of desired compiler
             - Which in-turn calls `DatabaseOperations.compiler_module`
-        1. Model: 
-        1. Manager:
-        1. QuerySet:
-        1. Query:
+        1. Query: These are basic datastructures and methods to high level re-presentation
+                - `BasicQuery`: ORM queries
+                - `RawQuery`: Bring your own queries {This is for optimizing your query}
+                - Query is a tree {a tree-like datastructure}. So basically generating query is like traversing tree and generating final query. This is repeated in templates aswell. 
+                - [Query expressions](https://docs.djangoproject.com/en/1.11/ref/models/expressions/)
+        1. QuerySet: Basically a wrapper {instance of Query needs to be wrapped for performing operations on ti}
+            - Lazy {does not, changes atrributes at most}
+            - Container has resusts cache
+        1. Manager: Write your own query set {this can be chained}. You can use it with creating your own QuerySet, attach it your Manager
+        1. Model: This is the ORM {this uses Metaclasses}
+
+
+
 
 
 ## [Qualities of great reusable Django apps by Flávio Juvenal da Silva Junior](https://www.youtube.com/watch?v=AMg4Iind90Q)
