@@ -1,5 +1,8 @@
 # Notes on Swift Programming
 
+## Course
+1. [Youtube: Stanford Course:Developing iOS Application](https://www.youtube.com/
+
 ## Design 
 1. [iOS Design Inspirations](https://www.behance.net/gallery/53917017/100-Best-Mobile-App-Interaction)
 
@@ -51,7 +54,7 @@
 ## Resources
 
 1. [iOS Tutorials](https://www.raywenderlich.com/category/ios)
-1. [Youtube: Stanford Course:Developing iOS Application](https://www.youtube.com/watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
+watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
 1. [Youtube: Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
 1. [Youtube: The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA)
 1. [App Coda](https://www.appcoda.com/swift-2/)
