@@ -7,7 +7,7 @@
 1. [How the Heck do Django Models Work](http://lazypython.blogspot.in/2008/11/how-heck-do-django-models-work.html)
 1. [Project Django - This book talks about Django internals](http://www.apress.com/us/book/9781430258094)
 
-## [Qualities of great reusable Django apps by Flávio Juvenal da Silva Junior]
+## [Qualities of great reusable Django apps by Flávio Juvenal da Silva Junior](https://www.youtube.com/watch?v=AMg4Iind90Q)
 
 1. Concept {For re-usable apps}:
     - Do one thing and one thing well
