@@ -1,5 +1,19 @@
 # Notes Software Engineering Process
 
+## Course
+
+1. [Udacity: Software Architecture & Design](https://www.youtube.com/watch?v=S8M2XGviyGg&list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
+
+## Analysis model for requirements engineering
+
+1. [Data Dictionary](https://en.wikipedia.org/wiki/Data_dictionary)
+1. [Entity Relationship Model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model)
+1. [Dataflow Diagram](https://en.wikipedia.org/wiki/Data_flow_diagram)
+1. [State Diagram](https://en.wikipedia.org/wiki/State_diagram)
+1. [Class Diagram](https://en.wikipedia.org/wiki/Class_diagram)
+1. [Activity Diagram](https://en.wikipedia.org/wiki/Activity_diagram)
+
+
 ## Class Diagram
 
 1. Each Class has following elements
