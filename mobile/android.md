@@ -1,5 +1,9 @@
 # Notes on Android Programming
 
+## Course
+
+1. [Udacity Android Course](https://www.youtube.com/watch?v=2Wo_QfQZ0lE&list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S)
+
 ## Android fundamentals
 
 - [Android Intents](http://www.vogella.com/tutorials/AndroidIntent/article.html)
@@ -110,6 +114,7 @@
 1. [Conceal](http://facebook.github.io/conceal/)
 
 ## Coding Style Guides
+
 1. [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 1. [Ribot's Project and Code Guide](https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md)
 1. [AOSP Java Code Style for Contributors](https://source.android.com/source/code-style)

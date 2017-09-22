@@ -2,10 +2,44 @@
 
 ## Django internals
 
+1. [Django in Depth](https://www.youtube.com/watch?v=tkwZ1jG3XgA)
 1. [Where can i get technical information on how the internals of Django works?](https://stackoverflow.com/questions/1286176/where-can-i-get-technical-information-on-how-the-internals-of-django-works)
 1. [How Django processes a request](http://www.b-list.org/weblog/2006/jun/13/how-django-processes-request/)
 1. [How the Heck do Django Models Work](http://lazypython.blogspot.in/2008/11/how-heck-do-django-models-work.html)
 1. [Project Django - This book talks about Django internals](http://www.apress.com/us/book/9781430258094)
+
+## Django in Depth
+
+1. Bottom up approach, start from bottom work our way up
+1. ORM
+    - Down the rabbit hole {Bottom Up}:
+        1. Database backend:
+            - Loweset level interaction with Database
+            - This is what `ENGINE` part of database settings
+            - This is the bounday {beyond this its database drive module}
+            - Made of few components
+                - `DatabaseWrapper`: This is the basic information about database {and SQL dialect}
+                    - This is where mappings from say TextField to native Datatype done
+                    - This resides in `django.db.backends.base`
+                - `DatabaseOperations`: Knows how to do common casts and value extraction
+                - `DatabaseFeatures`: What does database supports
+                - `DatabaseCreation`: Quirks of creating the database/tables
+                - `DatabaseIntrospection`: Used by `inspectdb` management command
+                - `DatabaseSchemaEditor`: This is how we do migrations {generate bunch of SQL ALTER statements}
+                - `DatabaseClient`: This is what is used by `dbshell` management commands
+        1. SQLCompiler: 
+            - Turns a Django Query instance into SQL for your database
+            - Subclasses for non-SELECT queries
+                - SQLInsertCompiler for INSERT
+                - SQLDeleteCompiler for DELETE
+            - `Query.get_compiler()` return SQLCompiler
+            - Which calls `compiler()` method of DatabaseOperations, passing the name of desired compiler
+            - Which in-turn calls `DatabaseOperations.compiler_module`
+        1. Model: 
+        1. Manager:
+        1. QuerySet:
+        1. Query:
+
 
 ## [Qualities of great reusable Django apps by Flávio Juvenal da Silva Junior](https://www.youtube.com/watch?v=AMg4Iind90Q)
 
@@ -38,4 +72,3 @@
     - Easy to integrate
         - Easy to **adapt** to project needs
         - [Designing and Evaluating Reusable Components](https://mollyrocket.com/casey/stream_0028.html)
-        - 

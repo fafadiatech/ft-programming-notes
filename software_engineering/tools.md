@@ -40,9 +40,9 @@
 ## Tutorials 
 
 1. [Lucidcharts UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)
-1. 
+
 
 ## Tools
 
 1. [Lucidcharts](https://www.lucidchart.com/)
-1. 
+
