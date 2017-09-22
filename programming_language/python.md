@@ -3,10 +3,13 @@
 ## General Python Related Articles
 
 1. [Python Tips Book](http://book.pythontips.com/en/latest/)
+1. [What the f-ck Python?](https://github.com/satwikkansal/wtfpython)
 
-## Intermedia
+## Intermediate
 
 1. [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
+1. [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
+1. 
 
 ## Advanced 
 
@@ -31,3 +34,10 @@
 1. [Building Skills in Object Oriented Design](http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/html/index.html#)
 1. [PyQT5 Tutorial](https://pythonspot.com/en/pyqt5/)
 1. [Python Exercises](https://www.ynonperek.com/2017/09/21/python-exercises/)
+1. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+1. [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
+
+## Videos & Conferences
+
+1. [Type Class Creation, Metaclass](https://www.youtube.com/watch?v=pd4Lm_WLJpM)
+1. [Let's Learn Python Scripting](https://www.youtube.com/watch?v=DRZdfd5_rdg&list=PL82YdDfxhWsC-3kdTKK2_mwbNdBfVvb_M)

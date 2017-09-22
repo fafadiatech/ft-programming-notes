@@ -6,3 +6,4 @@
 1. [CRC Method for Class Design](http://agilemodeling.com/artifacts/crcModel.htm)
 1. [Object Oriented Design with Python](https://www.cs.oberlin.edu/~bob/spring2015cs150/Python%20Notes/Section8.5.pdf)
 1. [Building Skills in Object Oriented Design](http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/html/index.html#)
+1. [Interactive Programming in Java](http://www.cs101.org/ipij/)

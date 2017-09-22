@@ -1,5 +1,12 @@
 # Notes on Djano
 
+## Django internals
+
+1. [Where can i get technical information on how the internals of Django works?](https://stackoverflow.com/questions/1286176/where-can-i-get-technical-information-on-how-the-internals-of-django-works)
+1. [How Django processes a request](http://www.b-list.org/weblog/2006/jun/13/how-django-processes-request/)
+1. [How the Heck do Django Models Work](http://lazypython.blogspot.in/2008/11/how-heck-do-django-models-work.html)
+1. [Project Django - This book talks about Django internals](http://www.apress.com/us/book/9781430258094)
+
 ## [Qualities of great reusable Django apps by Flávio Juvenal da Silva Junior]
 
 1. Concept {For re-usable apps}:
