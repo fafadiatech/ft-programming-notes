@@ -43,3 +43,4 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [A First Exercise in Natural Language Processing with Python: Counting Hapaxes](http://catswhisker.xyz/log/2017/9/7/a_first_excercise_in_natural_language_processing_with_python_counting_hapaxes/#_stemming_and_lemmatization)
 1. [Topic Suggestions for Millions of Repositories](https://githubengineering.com/topics/)
 1. [MinHash for Dummies](http://matthewcasperson.blogspot.in/2013/11/minhash-for-dummies.html)
+1. [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/)

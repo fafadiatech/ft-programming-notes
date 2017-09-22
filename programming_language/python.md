@@ -30,3 +30,4 @@
 1. [Kivy Simple Paint App](https://kivy.org/docs/tutorials/firstwidget.html)
 1. [Building Skills in Object Oriented Design](http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/html/index.html#)
 1. [PyQT5 Tutorial](https://pythonspot.com/en/pyqt5/)
+1. [Python Exercises](https://www.ynonperek.com/2017/09/21/python-exercises/)
