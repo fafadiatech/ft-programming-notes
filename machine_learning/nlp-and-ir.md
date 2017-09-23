@@ -16,7 +16,7 @@
 1. [Web Information Retrieval](http://sci2s.ugr.es/sites/default/files/files/linksInterest/Tutorials/icde.pdf)
 1. [Frame Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
 1. [Rule Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
-
+1. [NLTK Book](http://www.nltk.org/book/)
 
 ## Libraries and Tools
 
@@ -44,3 +44,4 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Topic Suggestions for Millions of Repositories](https://githubengineering.com/topics/)
 1. [MinHash for Dummies](http://matthewcasperson.blogspot.in/2013/11/minhash-for-dummies.html)
 1. [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/)
+1. [Vandalism Detection in Wikipedia](https://en.wikipedia.org/wiki/User:ClueBot_NG), [Source on Github](https://github.com/DamianZaremba/cluebotng/)
