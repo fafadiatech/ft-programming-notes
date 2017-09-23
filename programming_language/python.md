@@ -20,6 +20,7 @@
 1. [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
 1. [Python Dependency Injection](http://www.aleax.it/yt_pydi.pdf)
 1. [Design Patterns in Python](http://www.aleax.it/gdd_pydp.pdf)
+1. [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/)
 
 ## Blog Articles
 
