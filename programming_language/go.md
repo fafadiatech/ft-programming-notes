@@ -36,6 +36,7 @@
 1. [Using WebSocket in Go](https://www.youtube.com/watch?v=CIh8qN7LO8M)
 1. [Golang UK 2017](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/videos)
 1. [GopherVideos](https://gophervids.appspot.com/)
+1. [GopherCon 2014 Writing and Debugging a Web-Based Multi-Player Game](https://www.youtube.com/watch?v=PJlp1YacstQ&t=444s)
 
 ## Summary of [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
