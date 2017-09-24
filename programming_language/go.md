@@ -35,7 +35,7 @@
 1. [Go: object oriented and concurrent](https://www.youtube.com/watch?v=Ng8m5VXsn8Q)
 1. [Using WebSocket in Go](https://www.youtube.com/watch?v=CIh8qN7LO8M)
 1. [Golang UK 2017](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/videos)
-
+1. [GopherVideos](https://gophervids.appspot.com/)
 
 ## Summary of [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
