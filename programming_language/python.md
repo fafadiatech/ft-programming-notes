@@ -13,6 +13,7 @@
 
 ## Advanced 
 
+1. [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
 1. [Python C Extension](http://book.pythontips.com/en/latest/python_c_extension.html) {Include Ctypes, Swig and Python C APIs}
 1. [Extending with C](https://en.wikibooks.org/wiki/Python_Programming/Extending_with_C)
 1. [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)

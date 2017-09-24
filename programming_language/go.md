@@ -39,6 +39,7 @@
 
 ## Summary of [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
 
+1. [Slides](https://talks.golang.org/2012/concurrency.slide#1)
 1. Concurrency is way to structure software, particularly as a way to write clean code that interacts well with the world
 1. It is not parallelism
 1. Erlang is closed to Communicating Sequential Processes Paper, where you communicate to a process by name rather than over channel
@@ -69,7 +70,7 @@
         - Takes two channels as input and output one channel
     - You can pass a channel into another channel
     - Wait channel acts as signals {asking for communicating process to wait}
-1. `select` is a control structure unique to concurrency {similar to `switch` statement}
+1. `select` is a control structure unique to concurrency {similar to `switch` statement. This is like a `guard` from Dijkstra}
     - Allows to change behaviour of the program
     - It evaluates all channels on which communication is possible. It blocks until there is communication on one of the channels
     - Also has a `default` block
@@ -79,3 +80,26 @@
 1. Word of caution
     - Don't overuse it
     - Go has `sync` and `sync/atomic` is reference counting {which is sometimes more than enough}
+
+## Summary of [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+
+1. [Slides](https://talks.golang.org/2012/waza.slide#1)
+1. Concurrency and Parallel is not the same
+1. What is Concurrency?
+    - Way to build things {Set of independently executing things}
+    - Dealing a lot of things at once
+    - E.g. OS Kenel has to manage {Keyboard, Mouse, Diplay and Processor} CONCURRENTLY
+    - About Structure
+1. What is Parallelism?
+    - Excuting the same thing in parallel {possibly related or not}
+    - Doing a lot of things at once
+    - Vector Product {Divide elements into smaller parts and do it all at once}
+    - About Execution
+1. Observations
+    - Adding things to design can make it more efficient
+    - If you get concurrency right, parallelism {kind of falls into place}
+1. Talks a great analogy of web-serving architecture {as means of gopher working on destroying pile of book}
+1. `for x := range input`, `range` here drains the channel until it runs out of messages
+1. Great load-balancer of work on [slide 41](https://talks.golang.org/2012/waza.slide#41). Think Producer/Cosumer pattern
+1. Pass channel with Request {think of channels as file descriptors}
+1. Concurrency enable parallelism
