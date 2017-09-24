@@ -35,3 +35,47 @@
 1. [Go: object oriented and concurrent](https://www.youtube.com/watch?v=Ng8m5VXsn8Q)
 1. [Using WebSocket in Go](https://www.youtube.com/watch?v=CIh8qN7LO8M)
 1. [Golang UK 2017](https://www.youtube.com/channel/UC9ZNrGdT2aAdrNbX78lbNlQ/videos)
+
+
+## Summary of [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs)
+
+1. Concurrency is way to structure software, particularly as a way to write clean code that interacts well with the world
+1. It is not parallelism
+1. Erlang is closed to Communicating Sequential Processes Paper, where you communicate to a process by name rather than over channel
+1. Go is distinguised by first class channels
+1. Roughly analogous to:
+    1. Writing to a file by name {Erlang}
+    1. Writing to a file descriptor {Golang}
+1. Think about go routine as a simple shell command with `&` at the end of the line
+1. Go feature when `main` returns program exits
+1. Go routines are {extremely cheap threads}
+    - Independently executing functions {don't want to wait for answer to comeback}
+    - It has its own class stack which grows and shrinks according to its needs
+    - It's very cheap. It is practical to have thousands, even tens of thousands of goroutine
+    - Go routines are multiplexed dynamically onto threads
+1. A channel in Go provides a connection between two go routines, allowing them to communicate
+    - Creating channel `c := make(chan int)`
+    - Sending on a channel `c <- 7`
+    - Recieving on a channel `value = <-c`
+    - Both sending and recieving on a channel are blocking {this is equivalent of lock step/synchronization operation}
+1. Buffered channels are non-blocking {Just fetch/drop from a buffer}
+    - More like mailboxes in Erlang
+1. Don't communicate by shaing memory, share memory by communicating
+1. Concurrency Patterns {Tiny examples than a formal}
+    - Generator {Function that returns a channel}
+        - Channels are first-class values just like strings or integrers
+        - Very much like a service
+    - Fan-in allows better co-ordination
+        - Takes two channels as input and output one channel
+    - You can pass a channel into another channel
+    - Wait channel acts as signals {asking for communicating process to wait}
+1. `select` is a control structure unique to concurrency {similar to `switch` statement}
+    - Allows to change behaviour of the program
+    - It evaluates all channels on which communication is possible. It blocks until there is communication on one of the channels
+    - Also has a `default` block
+    - If communication is avilable on multiple channels, `select` chooses psuedo-randomly
+1. `time.After` will allow us to implement timeout operation on a go routine
+1. `quit` channel is also possible
+1. Word of caution
+    - Don't overuse it
+    - Go has `sync` and `sync/atomic` is reference counting {which is sometimes more than enough}
