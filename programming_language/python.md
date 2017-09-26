@@ -63,7 +63,7 @@
 1. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 1. [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 1. [Introduction to Data Visualization using Python](https://mubaris.com/2017-09-26/introduction-to-data-visualizations-using-python)
-1. 
+1. [The complete guide to building an image search engine with Python and OpenCV](https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/)
 
 ## Videos & Conferences
 
