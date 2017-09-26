@@ -1,18 +1,23 @@
+
 # Notes on Deep Learning
 
-These notes are based on an excellent [YouTube videos](https://www.youtube.com/watch?v=b99UVkWzYTQ)
+## Basics
+1. [Building Neural Network from Scratch](https://thecodacus.com/neural-network-scratch-python-no-libraries/)
+1. [Learning AI if you suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32)
+
+## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
 
 - GEOFF HILTON {Father of DNN}
 - MLP {Multi Layered Perceptron} -> Vanialla Neural Network
 - Problem of Vanishing Gradient {This is what RBM Solves}
 
-## Unsupervised
+### Unsupervised
 
-### RBM {Extract features and reconstruct inputs}
+#### RBM {Extract features and reconstruct inputs}
 
 - Forward/Backward Phase
 
-### Autoencoders {Family of algo to which RBM belongs to}
+#### Autoencoders {Family of algo to which RBM belongs to}
 
 - Idenfity patterns in dataset
 - Denoising
@@ -24,16 +29,16 @@ These notes are based on an excellent [YouTube videos](https://www.youtube.com/w
 - Deep Auto-Encoder [28 x 28] -> 30
 - Better than PCA
 
-## Supervised
+### Supervised
 
-### DBN {Feed Forward}
+#### DBN {Feed Forward}
 
 - Combine multiple RBMs
 - Hidden Layer of one RBM is Visible Layer of another RBM
 - Useful in scenarios where we have small sample of Trained Data
 - Training process get completed in reasonable amount of time
 
-### CNN {Feed Forward}
+#### CNN {Feed Forward}
 
 - Machine Vision is where CNN is used
 - ImageNet competition
@@ -49,7 +54,7 @@ These notes are based on an excellent [YouTube videos](https://www.youtube.com/w
         - Allows network to classify data from samples based on patterns discovered by Polling layer
 - Since this is supervised method, take large sample of labeled data
 
-### RNN
+#### RNN
 
 - If patterns change over time is where RNN is useful
 - Application {Speech Recognization, Driverless Car}
@@ -74,7 +79,7 @@ These notes are based on an excellent [YouTube videos](https://www.youtube.com/w
 - Feedforward: Classification/Regression
 - Recurrent Neural Network: Forecaster
 
-### RNTN {Recursive Neural Tensor Nets}
+#### RNTN {Recursive Neural Tensor Nets}
 
 - For applications like Parsing
 - 3 Basic Component
