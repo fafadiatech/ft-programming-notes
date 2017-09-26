@@ -9,7 +9,7 @@
 
 1. [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 1. [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
-1. 
+1. [Python Data Analysis with pandas](https://mubaris.com/2017-09-25/python-data-analysis-with-pandas)
 
 ## Advanced 
 
@@ -22,6 +22,27 @@
 1. [Python Dependency Injection](http://www.aleax.it/yt_pydi.pdf)
 1. [Design Patterns in Python](http://www.aleax.it/gdd_pydp.pdf)
 1. [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/)
+
+## Math
+
+1.[Linear Programming with Python and Pulp](http://benalexkeen.com/linear-programming-with-python-and-pulp-part-1/)
+1. [Optimizing Life Everyday Problems Solved with Linear Programming in Python](https://www.youtube.com/watch?v=7yZ5xxdkTb8)
+1. [Example application of LP in Advertising](https://www.slideshare.net/ACanBengisu/linear-programming-on-digital-advertising)
+1. Linear Programming Solver:
+	- Solver
+		- GLPK
+		- COIN
+		- CPLEX
+		- GUROBI
+		- Revised Simplex Method
+		- Interior Point Method
+		- Interiror-Point Legacy Linear Programming
+		- Active-Set linprog Algorithm
+	- Modelling Framework
+		- SciPy
+		- PyOMO
+		- PuLP
+
 
 ## Blog Articles
 
