@@ -22,10 +22,13 @@
 1. [Python Dependency Injection](http://www.aleax.it/yt_pydi.pdf)
 1. [Design Patterns in Python](http://www.aleax.it/gdd_pydp.pdf)
 1. [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/)
+1. [Tornado Web](http://www.tornadoweb.org/en/stable/guide.html)
 
 ## Math
 
-1.[Linear Programming with Python and Pulp](http://benalexkeen.com/linear-programming-with-python-and-pulp-part-1/)
+1. [Python NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+1. [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/)
+1. [Linear Programming with Python and Pulp](http://benalexkeen.com/linear-programming-with-python-and-pulp-part-1/)
 1. [Optimizing Life Everyday Problems Solved with Linear Programming in Python](https://www.youtube.com/watch?v=7yZ5xxdkTb8)
 1. [Example application of LP in Advertising](https://www.slideshare.net/ACanBengisu/linear-programming-on-digital-advertising)
 1. Linear Programming Solver:
@@ -59,6 +62,8 @@
 1. [Python Exercises](https://www.ynonperek.com/2017/09/21/python-exercises/)
 1. [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 1. [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
+1. [Introduction to Data Visualization using Python](https://mubaris.com/2017-09-26/introduction-to-data-visualizations-using-python)
+1. [The complete guide to building an image search engine with Python and OpenCV](https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/)
 
 ## Videos & Conferences
 
