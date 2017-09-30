@@ -45,7 +45,7 @@
 		- SciPy
 		- PyOMO
 		- PuLP
-
+1. [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 ## Blog Articles
 
