@@ -8,3 +8,4 @@
 1. [Building Skills in Object Oriented Design](http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/html/index.html#)
 1. [Interactive Programming in Java](http://www.cs101.org/ipij/)
 1. [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+1. [Design Patterns Explained Simply](https://sourcemaking.com/design_patterns)
