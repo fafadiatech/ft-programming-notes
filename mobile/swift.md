@@ -3,7 +3,7 @@
 ## Course
 1. [Youtube: Stanford Course:Developing iOS Application](https://www.youtube.com/
 
-## Design 
+## Design
 1. [iOS Design Inspirations](https://www.behance.net/gallery/53917017/100-Best-Mobile-App-Interaction)
 
 ## Basics
@@ -59,3 +59,4 @@ watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
 1. [Youtube: The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA)
 1. [App Coda](https://www.appcoda.com/swift-2/)
 1. [Code Tutplus](https://code.tutsplus.com/categories/ios)
+1. [Test Basics - Beginning iOS Unit and UI Testing](https://www.youtube.com/watch?v=SewTX1Rqklg&list=PL23Revp-82LKah2Jb1glbUhdIunzGPEdd&index=4)

@@ -125,9 +125,9 @@
 
 ## Resources
 
-1. [Vogella Android Tutorials](http://www.vogella.com/tutorials/android.html) 
+1. [Vogella Android Tutorials](http://www.vogella.com/tutorials/android.html)
 1. [Google's Official Android Training](https://developer.android.com/training/index.html)
-1. [Reddit Android Dev](https://www.reddit.com/r/androiddev/) 
+1. [Reddit Android Dev](https://www.reddit.com/r/androiddev/)
 1. [Android Development Community on Medium](https://medium.com/tag/android-app-development)
 1. [Android Weekly](http://androidweekly.net/)
 1. [Awesome Android](https://github.com/JStumpp/awesome-android#charts)
@@ -156,7 +156,8 @@ Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcodi
 1. [Offline App Architecture: how to build for the next billion](https://hackernoon.com/so-you-want-to-develop-for-the-next-billion-9eb072c26bc8)
 1. [DevBytes: Efficient Data Transfers - Eliminating Polling with Google Cloud Messaging](https://www.youtube.com/watch?v=cJbGK6cVmSM&list=PLWz5rJ2EKKc-VJS9WQlj9xM_ygPopZ-Qd&index=5)
 1. [Synchronize Android data for online/offline app – [Sync Adapter]](https://mobiware.pt/blog/synchronize-android-data-online-offline-app/)
-1. [Android Architecture](https://academy.realm.io/posts/learning-path-android-architecture/) 
+1. [Android Architecture](https://academy.realm.io/posts/learning-path-android-architecture/)
 1. [Understanding Android/Java Processes and Threads Related Concepts (Handlers, Runnables, Loopers, MessageQueue, HandlerThread)](http://codetheory.in/android-handlers-runnables-loopers-messagequeue-handlerthread/)
 1. [25 Android libraries you definitely want to try out in early 2017](https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0)
 1. [Self learning guide for Android](https://docs.google.com/document/d/1LhZfkFv7BQjWFPL_VtyzJOrz5TevSqTSjldmiM2rrOI/edit)
+1. [UI testing with Espresso](https://www.youtube.com/watch?v=kL3MCQV2M2s)
