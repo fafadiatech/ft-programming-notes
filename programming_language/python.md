@@ -5,18 +5,27 @@
 1. [Python Tips Book](http://book.pythontips.com/en/latest/)
 1. [What the f-ck Python?](https://github.com/satwikkansal/wtfpython)
 
+## Tools
+1. [pytype: Static Analysis tool for Python](https://github.com/google/pytype/)
+1. [mypy: Python with static typing](http://mypy-lang.org/)
+1. [Stackless Python](https://bitbucket.org/stackless-dev/stackless/wiki/Home)
+1. [Pypy](http://pypy.org/index.html)
+
 ## Intermediate
 
 1. [Python Tutorial: Decorators - Dynamically Alter The Functionality Of Your Functions](https://www.youtube.com/watch?v=FsAPt_9Bf3U)
 1. [Be Pythonic: __init__.py](http://mikegrouchy.com/blog/2012/05/be-pythonic-__init__py.html)
 1. [Python Data Analysis with pandas](https://mubaris.com/2017-09-25/python-data-analysis-with-pandas)
 1. [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
+1. [Alice in Python projectland](https://veekaybee.github.io/2017/09/26/python-packaging/#building-a-simple-word-processor)
+1. [typing module](https://docs.python.org/3/library/typing.html)
 
 ## Advanced
 
 1. [Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)
 1. [Python C Extension](http://book.pythontips.com/en/latest/python_c_extension.html) {Include Ctypes, Swig and Python C APIs}
 1. [Extending with C](https://en.wikibooks.org/wiki/Python_Programming/Extending_with_C)
+1. [Extending Python With C Libraries and the “ctypes” Module](https://dbader.org/blog/python-ctypes-tutorial)
 1. [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
 1. [Python modules in C](http://dfm.io/posts/python-c-extensions/)
 1. [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
@@ -66,8 +75,12 @@
 1. [Understanding Python metaclasses](https://blog.ionelmc.ro/2015/02/09/understanding-python-metaclasses/)
 1. [Introduction to Data Visualization using Python](https://mubaris.com/2017-09-26/introduction-to-data-visualizations-using-python)
 1. [The complete guide to building an image search engine with Python and OpenCV](https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/)
+1. [Python type annotations](https://www.caktusgroup.com/blog/2017/02/22/python-type-annotations/)
+1. [Quick introduction to concurrent.futures](http://masnun.com/2016/03/29/python-a-quick-introduction-to-the-concurrent-futures-module.html)
+1. [Dan Bader's Blog](https://dbader.org/blog/)
 
 ## Videos & Conferences
 
 1. [Type Class Creation, Metaclass](https://www.youtube.com/watch?v=pd4Lm_WLJpM)
 1. [Let's Learn Python Scripting](https://www.youtube.com/watch?v=DRZdfd5_rdg&list=PL82YdDfxhWsC-3kdTKK2_mwbNdBfVvb_M)
+1. [Python 3.3: Trust Me, It's Better than 2.7](https://www.youtube.com/watch?v=f_6vDi7ywuA)
