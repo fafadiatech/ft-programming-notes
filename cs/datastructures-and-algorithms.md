@@ -17,9 +17,20 @@
 1. [Facebook Stack](http://malteschwarzkopf.de/research/assets/facebook-stack.pdf)
 1. [Operating system support for warehouse-scale computing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.722.1768&rep=rep1&type=pdf)
 1. [Application of Binary Search Trees](https://stackoverflow.com/questions/2130416/what-are-the-applications-of-binary-trees)
-1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)
 1. [Standard Template Library](http://web.eng.fiu.edu/watsonh/eel3160/Lectures/STL-Lectures.pdf)
 1. [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
+1. [gods: Go Language Data Structure](https://github.com/emirpasic/gods)
+
+## Intermedia Data Structures
+
+1. [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
+1. [Gap Buffer](https://en.wikipedia.org/wiki/Gap_buffer)
+1. [Text Editor: Data Structures](http://www.averylaird.com/programming/editor/2017/09/30/the-piece-table/)
+1. [Piece Table](https://en.wikipedia.org/wiki/Piece_table)
+1. [Craft of Text Editing](http://www.finseth.com/craft/craft.pdf)
+1. [Streams: a new general purpose data structure in Redis.](http://antirez.com/news/114)
+1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)]
+1. [Log Structured Merge Trees](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 
 ## C++ Programming
 
@@ -50,7 +61,7 @@
     1. Text Juxtification: Given a string and width how would you adjust the string so that each line fits within that width
     1. Word Break Problem: You are given a long word and a dictionary, find if long wod is present in dictionary
     1. Sting interleaving problem: Given 3 strings see if a combination of 2 strings produce 3 strings
-    1. Subset sum problem: You are given 
+    1. Subset sum problem: You are given
 - Other References:
     1. [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
     1. [DP Zoo Tour](http://blog.ezyang.com/2010/11/dp-zoo-tour/)

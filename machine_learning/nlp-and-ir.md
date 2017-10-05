@@ -23,6 +23,7 @@
 1. [AllenNLP](http://allennlp.org/)
 1. [gensim](https://radimrehurek.com/gensim/)
 1. [nltk](http://www.nltk.org/)
+1. [CoreML Tools](https://github.com/apple/coremltools)
 
 ## Papers
 
