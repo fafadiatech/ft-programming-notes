@@ -20,6 +20,8 @@
 1. [Standard Template Library](http://web.eng.fiu.edu/watsonh/eel3160/Lectures/STL-Lectures.pdf)
 1. [Principles of Algorithmic Problem Solving](http://www.csc.kth.se/~jsannemo/slask/main.pdf)
 1. [gods: Go Language Data Structure](https://github.com/emirpasic/gods)
+1. [cosmos: Collections of Algorithms implemented](https://github.com/OpenGenus/cosmos)
+1. [Compiler Design: Tutorials Point](https://www.tutorialspoint.com/compiler_design/index.htm)
 
 ## Intermedia Data Structures
 
@@ -31,6 +33,7 @@
 1. [Streams: a new general purpose data structure in Redis.](http://antirez.com/news/114)
 1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)]
 1. [Log Structured Merge Trees](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
+1. [Concurrent Data Structures](https://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf)
 
 ## C++ Programming
 
