@@ -6,6 +6,8 @@
 1. [Learning AI if you suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-p4-tensors-illustrated-with-cats-27f0002c9b32)
 1. [Exploring Linear Algebra with Python](https://mubaris.com/2017-09-25/exploring-linear-algebra-with-python)
 1. [Linear Programming with Pulp](http://benalexkeen.com/linear-programming-with-python-and-pulp/)
+1. [deeplearn.js Tutorial](https://deeplearnjs.org/docs/tutorials/intro.html)
+1. [Github: Teachable Machine Learning](https://github.com/googlecreativelab/teachable-machine)
 
 ## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
 
