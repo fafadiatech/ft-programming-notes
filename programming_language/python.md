@@ -85,3 +85,7 @@
 1. [Type Class Creation, Metaclass](https://www.youtube.com/watch?v=pd4Lm_WLJpM)
 1. [Let's Learn Python Scripting](https://www.youtube.com/watch?v=DRZdfd5_rdg&list=PL82YdDfxhWsC-3kdTKK2_mwbNdBfVvb_M)
 1. [Python 3.3: Trust Me, It's Better than 2.7](https://www.youtube.com/watch?v=f_6vDi7ywuA)
+
+## Blog Articles
+
+1. [AIMA: Python code](https://github.com/aimacode/aima-python)
