@@ -68,3 +68,7 @@
 - Other References:
     1. [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
     1. [DP Zoo Tour](http://blog.ezyang.com/2010/11/dp-zoo-tour/)
+
+## Blog
+
+1. [Image Dithering: Eleven Algorithms and Source Code](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
