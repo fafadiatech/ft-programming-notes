@@ -22,6 +22,7 @@
 1. [gods: Go Language Data Structure](https://github.com/emirpasic/gods)
 1. [cosmos: Collections of Algorithms implemented](https://github.com/OpenGenus/cosmos)
 1. [Compiler Design: Tutorials Point](https://www.tutorialspoint.com/compiler_design/index.htm)
+1. [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
 
 ## Intermedia Data Structures
 
@@ -72,3 +73,4 @@
 ## Blog
 
 1. [Image Dithering: Eleven Algorithms and Source Code](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
+1. [Visual explaination of compression algorithms](https://unwttng.com/compression-decompressed)
