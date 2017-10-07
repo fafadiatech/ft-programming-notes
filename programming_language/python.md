@@ -34,6 +34,9 @@
 1. [Green Tree Snakes - the missing Python AST docs](https://greentreesnakes.readthedocs.io/en/latest/)
 1. [Tornado Web](http://www.tornadoweb.org/en/stable/guide.html)
 1. [Python Developer's Guide](https://docs.python.org/devguide/)
+1. [Python Internals: Memory Management](https://rushter.com/blog/python-memory-managment/)
+1. [Python internals: Arbitrary-precision integer implementation](https://rushter.com/blog/python-integer-implementation/)
+1. [Things you should know about garbage collection in Python](https://rushter.com/blog/python-garbage-collector/)
 
 ## Math
 
