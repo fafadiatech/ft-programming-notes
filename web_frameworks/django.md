@@ -85,3 +85,7 @@
 ## Blog Posts
 1. [Django's Generic ListView with django_filters and django_tables2](http://www.craigderington.me/django-generic-listview-with-django-filters-and-django-tables2/)
 1. [Django: List of Useful URL Patterns](https://simpleisbetterthancomplex.com/references/2016/10/10/url-patterns.html)
+1. [Query Performance Omniscience in Django](https://engineering.rover.com/blog/performance/2017/09/25/django-performance-omniscience/)
+1. [Zappa! or How to go serverless with Django and never look ](https://cloudacademy.com/blog/zappa-or-how-to-go-serverless-with-django/)
+1. [Workflows (States) in Django](https://gist.github.com/Nagyman/9502133)
+1. [Supercharging Django Productivity](https://medium.com/eshares-blog/supercharging-django-productivity-at-eshares-8dbf9042825e)
