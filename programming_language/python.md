@@ -61,6 +61,16 @@
 		- PuLP
 1. [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
+## Machine Learning
+
+1. [Machine learning algorithms](https://github.com/rushter/MLAlgorithms)
+1. [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
+## Web Frameworks
+
+1. [apistart](https://github.com/encode/apistar)
+1. [Django channels](https://github.com/django/channels)
+
 ## Blog Articles
 
 1. [A guide to logging in Python](https://opensource.com/article/17/9/python-logging)

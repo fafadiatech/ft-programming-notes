@@ -81,3 +81,7 @@
     - Easy to integrate
         - Easy to **adapt** to project needs
         - [Designing and Evaluating Reusable Components](https://mollyrocket.com/casey/stream_0028.html)
+
+## Blog Posts
+1. [Django's Generic ListView with django_filters and django_tables2](http://www.craigderington.me/django-generic-listview-with-django-filters-and-django-tables2/)
+1. [Django: List of Useful URL Patterns](https://simpleisbetterthancomplex.com/references/2016/10/10/url-patterns.html)
