@@ -10,6 +10,8 @@
 1. [mypy: Python with static typing](http://mypy-lang.org/)
 1. [Stackless Python](https://bitbucket.org/stackless-dev/stackless/wiki/Home)
 1. [Pypy](http://pypy.org/index.html)
+1. [livepython: Visual tracing for Python](https://github.com/agermanidis/livepython)
+1. 
 
 ## Intermediate
 

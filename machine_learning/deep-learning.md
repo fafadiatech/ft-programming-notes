@@ -8,6 +8,7 @@
 1. [Linear Programming with Pulp](http://benalexkeen.com/linear-programming-with-python-and-pulp/)
 1. [deeplearn.js Tutorial](https://deeplearnjs.org/docs/tutorials/intro.html)
 1. [Github: Teachable Machine Learning](https://github.com/googlecreativelab/teachable-machine)
+1. [pyTorch Zero to All](https://github.com/hunkim/PyTorchZeroToAll)
 
 ## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
 
