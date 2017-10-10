@@ -6,12 +6,12 @@
 1. [What the f-ck Python?](https://github.com/satwikkansal/wtfpython)
 
 ## Tools
+
 1. [pytype: Static Analysis tool for Python](https://github.com/google/pytype/)
 1. [mypy: Python with static typing](http://mypy-lang.org/)
 1. [Stackless Python](https://bitbucket.org/stackless-dev/stackless/wiki/Home)
 1. [Pypy](http://pypy.org/index.html)
 1. [livepython: Visual tracing for Python](https://github.com/agermanidis/livepython)
-1. 
 
 ## Intermediate
 
@@ -39,6 +39,7 @@
 1. [Python Internals: Memory Management](https://rushter.com/blog/python-memory-managment/)
 1. [Python internals: Arbitrary-precision integer implementation](https://rushter.com/blog/python-integer-implementation/)
 1. [Things you should know about garbage collection in Python](https://rushter.com/blog/python-garbage-collector/)
+1. [Python Performance Profiling: The Guts And The Glory](https://www.youtube.com/watch?v=BOKcZjI5zME)
 
 ## Math
 
