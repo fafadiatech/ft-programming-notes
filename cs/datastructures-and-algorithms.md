@@ -74,3 +74,6 @@
 
 1. [Image Dithering: Eleven Algorithms and Source Code](http://www.tannerhelland.com/4660/dithering-eleven-algorithms-source-code/)
 1. [Visual explaination of compression algorithms](https://unwttng.com/compression-decompressed)
+1. [Consistent Hashing](http://www.acodersjourney.com/2017/10/system-design-interview-consistent-hashing/)
+1. [The Simple Magic of Consistent Hashing](http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
+1. [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
