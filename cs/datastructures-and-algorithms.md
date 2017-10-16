@@ -27,6 +27,7 @@
 1. [Notes on Data Structures and Programming Techniques (CPSC 223, Spring 2015)](http://cs.yale.edu/homes/aspnes/classes/223/notes.html)
 1. [The Intuitive Guide to Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
 1. [500 Data Structures and Algorithms practice problems and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&share=1)
+1. [Stanford: Data Structures](https://web.stanford.edu/class/cs166/)
 
 ## Intermedia Data Structures
 
