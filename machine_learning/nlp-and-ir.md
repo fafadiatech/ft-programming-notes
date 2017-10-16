@@ -17,6 +17,7 @@
 1. [Frame Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
 1. [Rule Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
 1. [NLTK Book](http://www.nltk.org/book/)
+1. [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
 
 ## Libraries and Tools
 
