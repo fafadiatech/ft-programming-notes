@@ -23,6 +23,10 @@
 1. [cosmos: Collections of Algorithms implemented](https://github.com/OpenGenus/cosmos)
 1. [Compiler Design: Tutorials Point](https://www.tutorialspoint.com/compiler_design/index.htm)
 1. [Programming Paradigms for Dummies: What Every Programmer Should Know](https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)
+1. [Esstential C](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+1. [Notes on Data Structures and Programming Techniques (CPSC 223, Spring 2015)](http://cs.yale.edu/homes/aspnes/classes/223/notes.html)
+1. [The Intuitive Guide to Data Structures And Algorithms](https://www.interviewcake.com/data-structures-and-algorithms-guide)
+1. [500 Data Structures and Algorithms practice problems and their solutions](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&share=1)
 
 ## Intermedia Data Structures
 
