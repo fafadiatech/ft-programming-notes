@@ -10,6 +10,8 @@
 1. [Github: Teachable Machine Learning](https://github.com/googlecreativelab/teachable-machine)
 1. [pyTorch Zero to All](https://github.com/hunkim/PyTorchZeroToAll)
 
+
+
 ## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
 
 - GEOFF HILTON {Father of DNN}
@@ -109,3 +111,4 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 
 1. [Microsoft CNTK](https://www.youtube.com/watch?v=pl-kbFJ1KzU)
 1. [Amazon Dsstne](https://github.com/amzn/amazon-dsstne)
+1. [Microsoft's ELL](https://github.com/Microsoft/ELL)

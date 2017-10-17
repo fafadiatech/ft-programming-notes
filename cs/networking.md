@@ -20,3 +20,8 @@
 1. [Peer-to-peer](https://en.wikipedia.org/wiki/Peer-to-peer)
 1. [Example of P2P Chat in Golang](https://github.com/timonsn/p2p-chat/blob/master/p2p.go)
 1. [P2P Programming Framework Python](http://cs.berry.edu/~nhamid/p2p/framework-python.html)
+
+## Algorithms
+
+1. [rsync](https://en.wikipedia.org/wiki/Rsync#Algorithm)
+1. [zsync](http://zsync.moria.org.uk/paper/)
