@@ -40,6 +40,7 @@
 1. [What are the lesser known but useful data structures?](https://stackoverflow.com/questions/500607/what-are-the-lesser-known-but-useful-data-structures)]
 1. [Log Structured Merge Trees](https://en.wikipedia.org/wiki/Log-structured_merge-tree)
 1. [Concurrent Data Structures](https://www.cs.tau.ac.il/~shanir/concurrent-data-structures.pdf)
+1. [Sketching Datastructures](http://lkozma.net/blog/sketching-data-structures/)
 
 ## C++ Programming
 
@@ -49,6 +50,8 @@
 1. [C++ Node.js integration](https://nodeaddons.com/c-processing-from-node-js/)
 1. [googletest](https://github.com/google/googletest/blob/master/googlemock/docs/ForDummies.md)
 1. [Learning C++](https://blog.tartanllama.xyz/learning-cpp/)
+1. [Stanford: Standard C++ Programming Course](http://web.stanford.edu/class/cs106l/lectures.html)
+1. [Stanford: Programming Abstractions](https://see.stanford.edu/Course/CS106B)
 
 ## Dynamic Programming
 
