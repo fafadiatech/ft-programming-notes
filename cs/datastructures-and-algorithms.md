@@ -52,6 +52,7 @@
 1. [Learning C++](https://blog.tartanllama.xyz/learning-cpp/)
 1. [Stanford: Standard C++ Programming Course](http://web.stanford.edu/class/cs106l/lectures.html)
 1. [Stanford: Programming Abstractions](https://see.stanford.edu/Course/CS106B)
+1. [Stanford: Programming Paradigms](https://see.stanford.edu/Course/CS107)
 
 ## Dynamic Programming
 
