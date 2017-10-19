@@ -21,6 +21,7 @@
 1. [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
 1. [Alice in Python projectland](https://veekaybee.github.io/2017/09/26/python-packaging/#building-a-simple-word-processor)
 1. [typing module](https://docs.python.org/3/library/typing.html)
+1. [Basic Sound Processing in Python](https://www.youtube.com/watch?v=0ALKGR0I5MA)
 
 ## Advanced
 

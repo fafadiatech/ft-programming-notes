@@ -116,3 +116,4 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 ## Blog Posts
 
 1. [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
+1. [Neural Network in Python 15 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/)

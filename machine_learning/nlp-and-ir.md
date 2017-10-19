@@ -50,4 +50,4 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Document Deduplication with Locality Sensitive Hashing](https://mattilyra.github.io/2017/05/23/document-deduplication-with-lsh.html)
 1. [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 1. [How will you swipe next? The results will be surprising.](https://tech.okcupid.com/how-we-predict-swipes/)
-
+1. [Stop using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
