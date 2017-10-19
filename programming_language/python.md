@@ -21,7 +21,7 @@
 1. [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-14-04)
 1. [Alice in Python projectland](https://veekaybee.github.io/2017/09/26/python-packaging/#building-a-simple-word-processor)
 1. [typing module](https://docs.python.org/3/library/typing.html)
-1. [Basic Sound Processing in Python](https://www.youtube.com/watch?v=0ALKGR0I5MA)
+1. [Think DSP](http://greenteapress.com/thinkdsp/html/index.html)
 
 ## Advanced
 
@@ -102,6 +102,8 @@
 1. [Type Class Creation, Metaclass](https://www.youtube.com/watch?v=pd4Lm_WLJpM)
 1. [Let's Learn Python Scripting](https://www.youtube.com/watch?v=DRZdfd5_rdg&list=PL82YdDfxhWsC-3kdTKK2_mwbNdBfVvb_M)
 1. [Python 3.3: Trust Me, It's Better than 2.7](https://www.youtube.com/watch?v=f_6vDi7ywuA)
+1. [Basic Sound Processing in Python](https://www.youtube.com/watch?v=0ALKGR0I5MA)
+1. [Using Micropython in the wild](https://www.youtube.com/watch?v=WI-nTf5iM84)
 
 ## Blog Articles
 

@@ -7,3 +7,10 @@
 1. [Python graph gallery](https://python-graph-gallery.com/)
 1. [matplotlib Tutorial](https://github.com/Kyubyong/matplotlib-tutorial)
 1. [Experimental Design and Analysis](http://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf)
+
+## Datasets
+
+### Audio/Sound Dataset
+
+1. [Free Sound](https://freesound.org/)
+1. [Audio Set](https://research.google.com/audioset/)
