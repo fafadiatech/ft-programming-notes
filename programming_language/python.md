@@ -14,6 +14,7 @@
 1. [livepython: Visual tracing for Python](https://github.com/agermanidis/livepython)
 1. [Cython](http://cython.org/)
 1. [Scikit Image](http://scikit-image.org/docs/stable/overview.html)
+1. [Simpy](https://simpy.readthedocs.io/en/latest/)
 
 ## Intermediate
 
