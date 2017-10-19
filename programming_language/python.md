@@ -104,6 +104,8 @@
 1. [Python 3.3: Trust Me, It's Better than 2.7](https://www.youtube.com/watch?v=f_6vDi7ywuA)
 1. [Basic Sound Processing in Python](https://www.youtube.com/watch?v=0ALKGR0I5MA)
 1. [Using Micropython in the wild](https://www.youtube.com/watch?v=WI-nTf5iM84)
+1. [MicroPython & Internet of Things](https://www.youtube.com/watch?v=EvGhPmPPzko)
+1. [Why Astronomers Love Python](https://www.youtube.com/watch?v=lWl6d7mkru4)
 
 ## Blog Articles
 
