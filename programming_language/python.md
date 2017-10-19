@@ -12,6 +12,8 @@
 1. [Stackless Python](https://bitbucket.org/stackless-dev/stackless/wiki/Home)
 1. [Pypy](http://pypy.org/index.html)
 1. [livepython: Visual tracing for Python](https://github.com/agermanidis/livepython)
+1. [Cython](http://cython.org/)
+1. [Scikit Image](http://scikit-image.org/docs/stable/overview.html)
 
 ## Intermediate
 
