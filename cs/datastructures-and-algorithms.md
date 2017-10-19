@@ -89,3 +89,4 @@
 1. [AlgoWiki](https://github.com/vicky002/AlgoWiki)
 1. [Parson's Code](https://en.wikipedia.org/wiki/Parsons_code)
 1. [Acoustic fingerprint](https://en.wikipedia.org/wiki/Acoustic_fingerprint)
+1. [How does Shazam work?](https://www.acrcloud.com/blog/how-does-shazam-work)
