@@ -87,3 +87,5 @@
 1. [The Simple Magic of Consistent Hashing](http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html)
 1. [A Fast, Minimal Memory, Consistent Hash Algorithm](https://arxiv.org/pdf/1406.2294.pdf)
 1. [AlgoWiki](https://github.com/vicky002/AlgoWiki)
+1. [Parson's Code](https://en.wikipedia.org/wiki/Parsons_code)
+1. [Acoustic fingerprint](https://en.wikipedia.org/wiki/Acoustic_fingerprint)
