@@ -112,3 +112,7 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 1. [Microsoft CNTK](https://www.youtube.com/watch?v=pl-kbFJ1KzU)
 1. [Amazon Dsstne](https://github.com/amzn/amazon-dsstne)
 1. [Microsoft's ELL](https://github.com/Microsoft/ELL)
+
+## Blog Posts
+
+1. [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
