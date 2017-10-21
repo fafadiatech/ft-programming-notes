@@ -1,5 +1,7 @@
 # CPython Internals based on [YouTube series](https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 
+This series cover CPython backend
+
 1. Compiler converts from code in one format to code in another format
 1. Python has a simple Compile stage that generates Byte Code
 1. Byte Code is then feeded to Interpreter {from Interpreter comes output}
@@ -60,3 +62,50 @@
 1. `CALL_FUNCTION` opcode implements calling of a function 
 1. `PyFrame_New` is called withing `fast_function`. So everytime a function is called a new frame is created
 1. `f_localplus` is storage for value stack {local one} which get copied over from calling stack
+
+# From Source to Code: How CPython's Compiler Works based on [YouTube](https://www.youtube.com/watch?v=R31NRWgoIWM)
+
+This talk is complementary to above series in a sense it talks about CPython's Frontend
+
+1. [Design of CPython’s Compiler](https://docs.python.org/devguide/compiler.html) talks about compiler design from Source to Byte Code 
+1. Flow of a typical Python code:
+    1. Decoding
+    1. Tokenizing
+    1. Parsing
+    1. AST
+    1. Compiling
+1. `echo "x=3+4" | python -m tokenize` tokenizes a python statement
+1. Modules that help tokenize `keyword` and `tokenize`
+1. Grammer for Python resides in `Grammar/Grammar` which is written in [EBNF form](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form)
+1. Python uses [LL(1)](https://en.wikipedia.org/wiki/LL_parser)
+1. Modules that help `parser`, `symbol` and `token`
+1. `AST` {Abstract Syntax Tree} was introduced in Python 2.6 its in `ast` module
+1. `Peepholer` is byte code optimizer always used
+1. `compile`, `dis` and `symtable` are modules that help in compiliation step
+
+# Stepping Through CPython based on [YouTube](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
+
+1. `Misc` contains misc code
+1. `PC` and `PCbuild` contain code for building Python on Windows
+1. `Doc` contains documentation
+1. Structure of the code
+    1. `Include` contains public facing headers. This get installed when you install Python
+    1. `Lib` contains all .py files which are implementation of standard library
+    1. `Modules` contain C portion of Python standard library implementation
+    1. `Objects` where objects are implemented List, Dictionary, Set and Tuples
+    1. `Python` this is where interpreter, parser etc reside
+1. Main lives in `Modules/python.c` -> now renamed to `Modules/main.c` which ultimately calls `Py_Main`
+1. There are two families of Memory Management in Python {malloc, realloc and free}
+    1. PyMem_:
+        - These live in `Include/pymem.h` and `Objects/object.c`
+        - These are thin wrapper over offical `malloc` function
+    1. PyObject_memory
+1. Py_Main
+    1. Parses argument
+    1. Checks Environmental Varaibles
+    1. Intializes Standard Input and Output
+    1. `Py_Initialze` bootstraping
+    1. run script/function
+1. Everything in Python is `PyObject` {If Python were implemented in C++ this is where all objects would inherit from}
+    1. Resides in `Include/object.h` and `Objects/object.c`
+        - This is where `ob_refcnt` which is object's reference count is stored

@@ -109,6 +109,7 @@
 1. [Using Micropython in the wild](https://www.youtube.com/watch?v=WI-nTf5iM84)
 1. [MicroPython & Internet of Things](https://www.youtube.com/watch?v=EvGhPmPPzko)
 1. [Why Astronomers Love Python](https://www.youtube.com/watch?v=lWl6d7mkru4)
+1. [From source to Code](https://www.youtube.com/watch?v=R31NRWgoIWM)
 
 ## Blog Articles
 
