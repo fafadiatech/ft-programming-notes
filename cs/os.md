@@ -9,3 +9,10 @@
 1. [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 1. [CppCon 2017: Alfred Bratterud “Deconstructing the OS: The devil’s In the side effects”](https://www.youtube.com/watch?v=h7D88U-5pKc&feature=youtu.be)
 1. [A Comprehensive Super Mario Bros. Disassembly](https://gist.github.com/1wErt3r/4048722)
+
+## Blog Posts
+
+1. [HolyJit](https://blog.mozilla.org/javascript/2017/10/20/holyjit-a-new-hope/)
+1. [Creating a Virtual Machine/Register VM in C](https://en.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_C)
+1. [Making a simple VM interpreter in Python](https://csl.name/post/vm/)
+1. [Stack based vs Register based Virtual Machine Architecture, and the Dalvik VM](https://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/)
