@@ -39,3 +39,14 @@
 1. Everything in Python is an object `PyObject`
 1. [dis](https://docs.python.org/2/library/dis.html) has more details on how each of the opcode works
 1. Generally each opcode takes 1 byte and 1 byte for argument. `BINARY_ADD` is 1 byte, since it doesn't have any arguments
+1. `HAS_ARG` macros checks if a macro which checks if an Opcode has an argument
+1. `Py_DECREF` will decrement the reference count {This the garbage collection stuff}. `Py_INCREF` will increment the reference
+1. [Python Tutor](http://pythontutor.com/) is tool for visualizing execution of code step by step
+1. [What is the difference between a frame and object, and when should I modify one over the other?](https://stackoverflow.com/questions/40641615/what-is-the-difference-between-a-frame-and-object-and-when-should-i-modify-one)
+1. Stack frames are created when a function is **called** rather than when they are defined
+1. `Values` are stored in `Stack`, `Functions` are stoed in `Frames`
+1. Each function in python gets compiled into `code object` of its own {function object}
+1. `LOAD_CONST` will bind function {until runtime}. This allows to change function dynamically {until its called}. This is for dynamic features
+1. Difference between code and function objects is that function object contains extra items. This includes:
+    1. Context/Enviroment in which it needs to get executed {A function is closure given a context}
+1. 

@@ -16,3 +16,7 @@
 1. [Creating a Virtual Machine/Register VM in C](https://en.wikibooks.org/wiki/Creating_a_Virtual_Machine/Register_VM_in_C)
 1. [Making a simple VM interpreter in Python](https://csl.name/post/vm/)
 1. [Stack based vs Register based Virtual Machine Architecture, and the Dalvik VM](https://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/)
+1. [Writing a Bootloader Part 1](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+1. [Kernel 101](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+1. [How does V8 engine work](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
+1. [Just in time compiler](https://en.wikipedia.org/wiki/Just-in-time_compilation)
