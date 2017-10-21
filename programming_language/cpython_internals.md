@@ -49,4 +49,14 @@
 1. `LOAD_CONST` will bind function {until runtime}. This allows to change function dynamically {until its called}. This is for dynamic features
 1. Difference between code and function objects is that function object contains extra items. This includes:
     1. Context/Enviroment in which it needs to get executed {A function is closure given a context}
-1. 
+1. `Include/code.h` is code object and `Include/frame.h` is frame object {for functions}
+1. Code objects are immutable
+1. Each frame has a value stack
+1. Both Function and Frame Objects have:
+    1. Code Object
+    1. Enviroment
+1. In case of Recursive code we can have 4 Frames and Just 1 Function {E.g. recursive factorial}
+1. Frames are runtime represetnation of a function with its own value stack and local variables
+1. `CALL_FUNCTION` opcode implements calling of a function 
+1. `PyFrame_New` is called withing `fast_function`. So everytime a function is called a new frame is created
+1. `f_localplus` is storage for value stack {local one} which get copied over from calling stack
