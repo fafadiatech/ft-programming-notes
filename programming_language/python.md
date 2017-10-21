@@ -113,3 +113,4 @@
 ## Blog Articles
 
 1. [AIMA: Python code](https://github.com/aimacode/aima-python)
+1. [Tutorial – Getting Started with GraphLab For Machine Learning in Python](https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)

@@ -13,3 +13,11 @@
     1. `Library`: This contains implementation of standard library modules
     1. `Include/opcode.h`: Contains reference of operations in Python
     1. `Python/ceval.c` contains the main interpreter loop. Interpreters are nothing but a giant `while` loop. viz: `for (;;){}`
+1. `make -j4` allows you to build source code in parallel using multi-cores {4 is number of core we would like to use}. `-jall ` can be used for optimizing compilation step {gcc flag}
+1. `compile(source_file, file_name_for_error_processing, mode)` will convert source file to `code object` {which contains byte code}
+1. `co_code` from code object returns a byte script
+1. `[byte for byte in c.co_code]` will print out the code. `[ord(byte) for byte in c.co_code]` which will output human readable integer
+1.  `python -m dis test.py` will show output of byte code dis-assemebled. 
+    - First column: Line Number
+    - Last column: Pretty printed symbols and constants
+1. All byte-code definitions are mapped in `Include/opcode.h` as constants defined as `# define ..` statements. All Byte code after `HAVE_ARGUMENT` take argument, all those above it don't take an argument

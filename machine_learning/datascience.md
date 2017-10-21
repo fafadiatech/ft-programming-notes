@@ -14,3 +14,11 @@
 
 1. [Free Sound](https://freesound.org/)
 1. [Audio Set](https://research.google.com/audioset/)
+
+## General Machine Learning
+
+1. [How to get started with Kaggle](https://machinelearningmastery.com/get-started-with-kaggle/)
+1. [Getting started with Machine Learning](https://github.com/collections/machine-learning)
+1. [Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+1. [Teachable Machine Learning](https://teachablemachine.withgoogle.com/)
+1. [Tensorflow Playground](http://playground.tensorflow.org/)
