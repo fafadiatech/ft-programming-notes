@@ -117,3 +117,6 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 
 1. [AlphaGo Zero](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 1. [Neural Network in Python 15 lines](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+1. [Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant](https://machinelearning.apple.com/2017/10/01/hey-siri.html)
+1. [What does AI code look like?](https://www.quora.com/What-does-AI-code-look-like/answer/Mikkel-Duif?srid=a9)
+1. [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
