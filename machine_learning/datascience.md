@@ -22,3 +22,4 @@
 1. [Choosing the Right Estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 1. [Teachable Machine Learning](https://teachablemachine.withgoogle.com/)
 1. [Tensorflow Playground](http://playground.tensorflow.org/)
+1. [Tensorflow 101](https://mubaris.com/2017-10-21/tensorflow-101)

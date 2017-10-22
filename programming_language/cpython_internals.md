@@ -62,6 +62,7 @@ This series cover CPython backend
 1. `CALL_FUNCTION` opcode implements calling of a function 
 1. `PyFrame_New` is called withing `fast_function`. So everytime a function is called a new frame is created
 1. `f_localplus` is storage for value stack {local one} which get copied over from calling stack
+1. Python object protocol are list of methods that all Python objects implement
 
 # From Source to Code: How CPython's Compiler Works based on [YouTube](https://www.youtube.com/watch?v=R31NRWgoIWM)
 
@@ -80,7 +81,7 @@ This talk is complementary to above series in a sense it talks about CPython's F
 1. Python uses [LL(1)](https://en.wikipedia.org/wiki/LL_parser)
 1. Modules that help `parser`, `symbol` and `token`
 1. `AST` {Abstract Syntax Tree} was introduced in Python 2.6 its in `ast` module
-1. `Peepholer` is byte code optimizer always used
+1. `Peepholer` is byte code optimizer always used. Reference [Peephole Optimization](https://en.wikipedia.org/wiki/Peephole_optimization)
 1. `compile`, `dis` and `symtable` are modules that help in compiliation step
 
 # Stepping Through CPython based on [YouTube](https://www.youtube.com/watch?v=XGF3Qu4dUqk)
@@ -100,6 +101,8 @@ This talk is complementary to above series in a sense it talks about CPython's F
         - These live in `Include/pymem.h` and `Objects/object.c`
         - These are thin wrapper over offical `malloc` function
     1. PyObject_memory
+        - Lives in `Include/objimpl.h` and `Objects/obmalloc.c` will be enable if `#define WITH_PYMALLC` is turned on
+        - `PyObject_Malloc` custom small block allocator
 1. Py_Main
     1. Parses argument
     1. Checks Environmental Varaibles
@@ -109,3 +112,23 @@ This talk is complementary to above series in a sense it talks about CPython's F
 1. Everything in Python is `PyObject` {If Python were implemented in C++ this is where all objects would inherit from}
     1. Resides in `Include/object.h` and `Objects/object.c`
         - This is where `ob_refcnt` which is object's reference count is stored
+1. `PyTypeObject` 52 members atleast
+    - Some are function pointers
+1. Protocol is another name for Abstract Base class `Include/abstract.h` and `Objects/abstract.c`. There are 5 protocol
+    - Object
+    - Buffer `tp_as_buffer` {struct needs to added}
+    - Number `tp_as_number`
+    - Mapping `tp_as_mapping`
+    - Sequence `tp_as_sequence`
+1. Reference Counting
+    - `Py_INCREF`
+    - `Py_DECREF`
+    - `Py_XINCREF` {safe versions checks NULL before incrementing}
+    - `Py_XDECREF`
+    - `Py_CLEAR`
+1. `PyObject_` has linked list of arena objects {which are blocks of 256K} memory. Each have 4K blocks. Each 4K block has {Each 4K blocks are called pool}
+    - `struct pool_header` how big and free list pointer
+1. Circular Double Linked List for `struct pool_header` {for things that are partially in used}
+1. `PyEval_EvalFrameEx` lives in `Python/ceval.c` implements stack-based virtual machine
+1. There are python modules that are pre-loaded {as part of bootstraping}
+1. 
