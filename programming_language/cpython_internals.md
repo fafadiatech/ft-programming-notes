@@ -63,6 +63,7 @@ This series cover CPython backend
 1. `PyFrame_New` is called withing `fast_function`. So everytime a function is called a new frame is created
 1. `f_localplus` is storage for value stack {local one} which get copied over from calling stack
 1. Python object protocol are list of methods that all Python objects implement
+1. All methods associated with objects have C implementation. E.g. all `__add__` magic methods have C implementations.
 
 # From Source to Code: How CPython's Compiler Works based on [YouTube](https://www.youtube.com/watch?v=R31NRWgoIWM)
 
@@ -131,4 +132,3 @@ This talk is complementary to above series in a sense it talks about CPython's F
 1. Circular Double Linked List for `struct pool_header` {for things that are partially in used}
 1. `PyEval_EvalFrameEx` lives in `Python/ceval.c` implements stack-based virtual machine
 1. There are python modules that are pre-loaded {as part of bootstraping}
-1. 
