@@ -63,7 +63,7 @@ This series cover CPython backend
 1. `PyFrame_New` is called withing `fast_function`. So everytime a function is called a new frame is created
 1. `f_localplus` is storage for value stack {local one} which get copied over from calling stack
 1. Python object protocol are list of methods that all Python objects implement
-1. All methods associated with objects have C implementation. E.g. all `__add__` magic methods have C implementations.
+1. All methods associated with objects have C implementation. E.g. all `__add__` magic methods have C implementations. {TBD: Continue from [30](https://www.youtube.com/watch?v=naZTXNBbcLc)}
 
 # From Source to Code: How CPython's Compiler Works based on [YouTube](https://www.youtube.com/watch?v=R31NRWgoIWM)
 

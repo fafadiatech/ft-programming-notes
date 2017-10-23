@@ -110,6 +110,7 @@
 1. [MicroPython & Internet of Things](https://www.youtube.com/watch?v=EvGhPmPPzko)
 1. [Why Astronomers Love Python](https://www.youtube.com/watch?v=lWl6d7mkru4)
 1. [From source to Code](https://www.youtube.com/watch?v=R31NRWgoIWM)
+1. [C Python extension in 2017](https://www.youtube.com/watch?v=phe1s6p38gk)
 
 ## Blog Articles
 
