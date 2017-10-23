@@ -15,6 +15,7 @@
 1. [Cython](http://cython.org/)
 1. [Scikit Image](http://scikit-image.org/docs/stable/overview.html)
 1. [Simpy](https://simpy.readthedocs.io/en/latest/)
+1. [Pyjion](https://github.com/Microsoft/Pyjion)
 
 ## Intermediate
 

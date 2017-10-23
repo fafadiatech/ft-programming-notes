@@ -25,6 +25,8 @@
 1. [gensim](https://radimrehurek.com/gensim/)
 1. [nltk](http://www.nltk.org/)
 1. [CoreML Tools](https://github.com/apple/coremltools)
+1. [Thot: a Toolkit for Statistical Machine Translation](http://daormar.github.io/thot/#toc--introduction)
+1. [Giza++](http://www.fjoch.com/GIZA++.html)
 
 ## Papers
 
