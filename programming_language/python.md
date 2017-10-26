@@ -16,6 +16,7 @@
 1. [Scikit Image](http://scikit-image.org/docs/stable/overview.html)
 1. [Simpy](https://simpy.readthedocs.io/en/latest/)
 1. [Pyjion](https://github.com/Microsoft/Pyjion)
+1. [Orange](https://orange.biolab.si/)
 
 ## Intermediate
 
