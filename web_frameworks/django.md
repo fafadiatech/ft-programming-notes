@@ -89,3 +89,4 @@
 1. [Zappa! or How to go serverless with Django and never look ](https://cloudacademy.com/blog/zappa-or-how-to-go-serverless-with-django/)
 1. [Workflows (States) in Django](https://gist.github.com/Nagyman/9502133)
 1. [Supercharging Django Productivity](https://medium.com/eshares-blog/supercharging-django-productivity-at-eshares-8dbf9042825e)
+1. [Heroku: Django getting started example](https://devcenter.heroku.com/articles/deploying-python#django-applications-on-heroku)
