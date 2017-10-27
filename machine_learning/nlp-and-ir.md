@@ -27,6 +27,7 @@
 1. [CoreML Tools](https://github.com/apple/coremltools)
 1. [Thot: a Toolkit for Statistical Machine Translation](http://daormar.github.io/thot/#toc--introduction)
 1. [Giza++](http://www.fjoch.com/GIZA++.html)
+1. [Rasa Core and NLP](https://github.com/RasaHQ)
 
 ## Papers
 
