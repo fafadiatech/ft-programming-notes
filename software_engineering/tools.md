@@ -29,7 +29,7 @@
 	1. Relationships
 		1. Inheritance: Parent/Child {Arrow towards base class}
 		1. Association: {No Style}
-		1. Aggregation: Special kind of association {Diamond} 
+		1. Aggregation: Special kind of association {Diamond}
 		1. Composition: Child object cannot exists without Parent object {Bold Diamond}
 		1. Multiplicity:
 			- 1 to 1 {1 on line}
@@ -37,7 +37,7 @@
 			- O to Man {`0..*`}
 
 
-## Tutorials 
+## Tutorials
 
 1. [Lucidcharts UML Class Diagram](https://www.youtube.com/watch?v=UI6lqHOVHic)
 
@@ -46,3 +46,6 @@
 
 1. [Lucidcharts](https://www.lucidchart.com/)
 
+## Blog Posts
+
+1. [Writing a game engine from scratch](https://www.gamasutra.com/blogs/MichaelKissner/20151027/257369/Writing_a_Game_Engine_from_Scratch__Part_1_Messaging.php)
