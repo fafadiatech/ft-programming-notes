@@ -56,3 +56,5 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Stop using word2vec](http://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
 1. [Word embeddings in 2017](http://ruder.io/word-embeddings-2017/)
 1. [Language Models, Word2Vec, and Efficient Softmax Approximations](http://rohanvarma.me/Word2Vec/)
+1. [Neural Language Modeling From Scratch (Part 1)](http://ofir.io/Neural-Language-Modeling-From-Scratch/?a=1)
+1. [Google Bottery](https://github.com/google/bottery)

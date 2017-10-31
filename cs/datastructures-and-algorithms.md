@@ -93,3 +93,4 @@
 1. [Acoustic fingerprint](https://en.wikipedia.org/wiki/Acoustic_fingerprint)
 1. [How does Shazam work?](https://www.acrcloud.com/blog/how-does-shazam-work)
 1. [pyAudio Extraction Features](https://github.com/tyiannak/pyAudioAnalysis/wiki/3.-Feature-Extraction)
+1. [Algorithmic approaches to playing Minesweep](https://dash.harvard.edu/bitstream/handle/1/14398552/BECERRA-SENIORTHESIS-2015.pdf?sequence=1)
