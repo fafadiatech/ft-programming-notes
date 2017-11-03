@@ -25,3 +25,40 @@
 1. Define main logic of Algorithm in `handle_data(context, data)` function
 
 Note: `context.portfolio.positions` is where all of our open positions are stored {Positions are our commitment to purchase quantity of security at a purchase price}
+
+## Typical Architecture of Algorithmic Trading System
+
+1. Market Feed {This is where Data Management is done}
+	- [MongoDB](https://www.mongodb.com/) seem to be a good option for storing time series data
+	- [Apache Arrow](https://arrow.apache.org/) also gets mention
+1. Complex Event Processing {CEP, Event driven architecture seems pretty popular. This is the heart of the entire system and this is where all strategires are runned}
+	- [Apache Kafka](https://kafka.apache.org/) is typically used in this setting {Provides Pub-Sub Mechanism}
+	- [Protocol Buffer](https://developers.google.com/protocol-buffers/docs/pythontutorial) is used for data serialization
+	- [Apache Spark](https://spark.apache.org/docs/latest/streaming-programming-guide.html) is used for data processing {it fits with Kafka. So aggregation is done by Kafka and Computation is done by Spark}
+1. Order Management {This is where Risk Management is also typically implemented}
+	- This is also know as Order Routing System 
+	- [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) protocol is typically used
+1. Post Trading {P/L statement generator, Reconsilation etc}
+
+## Typical Tasks for Algorithmic Trading System include:
+
+1. Research
+	- Core Research 
+	- Data Research
+	- Data Labs
+1. Data Management
+1. Signal Generation
+1. Order Management
+1. Post Trading
+
+## Video Talks
+
+1. [Algorithmic Trading with Python](https://www.youtube.com/watch?v=dDMptG5YYyY)
+1. [Realtime Risk Management Using Kafka, Python, and Spark Streaming](https://www.youtube.com/watch?v=5XB-T4hzV00)
+
+## Blog Posts
+
+1. [How is complex event processing integrated into trading systems? How is this data being used within firms?](https://www.quora.com/How-is-complex-event-processing-integrated-into-trading-systems-How-is-this-data-being-used-within-firms)
+1. [Decoding the Black Box running Trading Systems](https://www.quantinsti.com/blog/decoding-black-box-running-trading-systems/)
+1. [Research Backtesting Environments in Python with pandas](https://www.quantstart.com/articles/Research-Backtesting-Environments-in-Python-with-pandas)
+1. [Introduction to Backtesting with Python and Pandas](https://s3.amazonaws.com/quantstart/media/powerpoint/an-introduction-to-backtesting.pdf)
