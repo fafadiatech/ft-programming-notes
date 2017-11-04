@@ -59,6 +59,7 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
 1. [Nicole Carlson | A Quickstart Guide to PyMC3](https://www.youtube.com/watch?v=rZvro4-nFIk)
 1. [How I Became A Quant 3/1/2017](https://www.youtube.com/watch?v=xA_PLDOt1ms)
+1. [Whats a hedge fund?](https://www.youtube.com/watch?v=5ItfdOC1B9Q)
 
 ## Blog Posts
 
