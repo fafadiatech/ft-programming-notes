@@ -16,9 +16,9 @@
 ## Quantopian Algorithm Building
 
 1. Initialize context in `initialize(context)` function
-	- Select Securities
-	- Define Slippage Model
-	- Define Commisions
+    - Select Securities
+    - Define Slippage Model
+    - Define Commisions
 1. Define Weights {How much we'd like to invest in security as %} `compute_weights(context,data)` function
 1. Define Rebalancing Schedule {Things we'd like to re-align our positions} in `rebalance(context,data)`
 1. Define all variables that we want to record in `record_vars(context, data)`
@@ -29,24 +29,24 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 ## Typical Architecture of Algorithmic Trading System
 
 1. Market Feed {This is where Data Management is done}
-	- [MongoDB](https://www.mongodb.com/) seem to be a good option for storing time series data
-	- [Apache Arrow](https://arrow.apache.org/) also gets mention
+    - [MongoDB](https://www.mongodb.com/) seem to be a good option for storing time series data
+    - [Apache Arrow](https://arrow.apache.org/) also gets mention
 1. Complex Event Processing {CEP, Event driven architecture seems pretty popular. This is the heart of the entire system and this is where all strategires are runned}
 	- [Apache Kafka](https://kafka.apache.org/) is typically used in this setting {Provides Pub-Sub Mechanism}
 	- [Protocol Buffer](https://developers.google.com/protocol-buffers/docs/pythontutorial) is used for data serialization
 	- [Apache Spark](https://spark.apache.org/docs/latest/streaming-programming-guide.html) is used for data processing {it fits with Kafka. So aggregation is done by Kafka and Computation is done by Spark}
 	- [Luigi](https://github.com/spotify/luigi) seems alternative component to Apache Spark
 1. Order Management {This is where Risk Management is also typically implemented}
-	- This is also know as Order Routing System 
-	- [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) protocol is typically used
+    - This is also know as Order Routing System
+    - [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) protocol is typically used
 1. Post Trading {P/L statement generator, Reconsilation etc}
 
 ## Typical Tasks for Algorithmic Trading System include:
 
 1. Research
-	- Core Research 
-	- Data Research
-	- Data Labs
+    - Core Research
+    - Data Research
+    - Data Labs
 1. Data Management
 1. Signal Generation
 1. Order Management
@@ -63,6 +63,12 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Algorithmic Trading with Python](https://www.youtube.com/watch?v=dDMptG5YYyY)
 1. [Realtime Risk Management Using Kafka, Python, and Spark Streaming](https://www.youtube.com/watch?v=5XB-T4hzV00)
 1. [High Frequency Trading in MMORPG Markets using Luigi, Pandas, and Scikit learn](https://www.youtube.com/watch?v=6raiXK08xyA)
+1. [Dr Jessica Stauth: Portfolio and Risk Analytics in Python with pyfolio](https://www.youtube.com/watch?v=BCLgXjxYONg)
+1. [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
+1. [Nicole Carlson | A Quickstart Guide to PyMC3](https://www.youtube.com/watch?v=rZvro4-nFIk)
+1. [How I Became A Quant 3/1/2017](https://www.youtube.com/watch?v=xA_PLDOt1ms)
+1. [Whats a hedge fund?](https://www.youtube.com/watch?v=5ItfdOC1B9Q)
+
 
 ## Blog Posts
 
@@ -72,3 +78,12 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Introduction to Backtesting with Python and Pandas](https://s3.amazonaws.com/quantstart/media/powerpoint/an-introduction-to-backtesting.pdf)
 1. [Forecasting Financial Time Series - Part I](https://www.quantstart.com/articles/Forecasting-Financial-Time-Series-Part-1)
 1. [Python for Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
+1. [Baysien Cone](https://blog.quantopian.com/bayesian-cone/)
+
+## Tools
+
+
+### Tools from Quantopian
+
+1. [Pyfolio](https://github.com/quantopian/pyfolio) - this is Performance and Risk analytics engine
+1. [Zipline](https://github.com/quantopian/zipline) - this is Backtesting engine written in Python
