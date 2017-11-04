@@ -58,6 +58,7 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Dr Jessica Stauth: Portfolio and Risk Analytics in Python with pyfolio](https://www.youtube.com/watch?v=BCLgXjxYONg)
 1. [Futures Market Explained](https://www.youtube.com/watch?v=CC9VeHrI3Es)
 1. [Nicole Carlson | A Quickstart Guide to PyMC3](https://www.youtube.com/watch?v=rZvro4-nFIk)
+1. [How I Became A Quant 3/1/2017](https://www.youtube.com/watch?v=xA_PLDOt1ms)
 
 ## Blog Posts
 
