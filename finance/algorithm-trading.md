@@ -36,14 +36,14 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 	- [Protocol Buffer](https://developers.google.com/protocol-buffers/docs/pythontutorial) is used for data serialization
 	- [Apache Spark](https://spark.apache.org/docs/latest/streaming-programming-guide.html) is used for data processing {it fits with Kafka. So aggregation is done by Kafka and Computation is done by Spark}
 1. Order Management {This is where Risk Management is also typically implemented}
-	- This is also know as Order Routing System 
+	- This is also know as Order Routing System
 	- [FIX](https://en.wikipedia.org/wiki/Financial_Information_eXchange) protocol is typically used
 1. Post Trading {P/L statement generator, Reconsilation etc}
 
 ## Typical Tasks for Algorithmic Trading System include:
 
 1. Research
-	- Core Research 
+	- Core Research
 	- Data Research
 	- Data Labs
 1. Data Management
@@ -62,3 +62,11 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Decoding the Black Box running Trading Systems](https://www.quantinsti.com/blog/decoding-black-box-running-trading-systems/)
 1. [Research Backtesting Environments in Python with pandas](https://www.quantstart.com/articles/Research-Backtesting-Environments-in-Python-with-pandas)
 1. [Introduction to Backtesting with Python and Pandas](https://s3.amazonaws.com/quantstart/media/powerpoint/an-introduction-to-backtesting.pdf)
+
+## Tools
+
+
+### Tools from Quantopian
+
+1. [Pyfolio](https://github.com/quantopian/pyfolio) - this is Performance and Risk analytics engine
+1. [Zipline](https://github.com/quantopian/zipline) - this is Backtesting engine written in Python
