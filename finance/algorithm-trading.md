@@ -68,7 +68,7 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Nicole Carlson | A Quickstart Guide to PyMC3](https://www.youtube.com/watch?v=rZvro4-nFIk)
 1. [How I Became A Quant 3/1/2017](https://www.youtube.com/watch?v=xA_PLDOt1ms)
 1. [Whats a hedge fund?](https://www.youtube.com/watch?v=5ItfdOC1B9Q)
-
+1. [Trading 212 Trading Strategies: How to Trade Moving Averages (Part 1)](https://www.youtube.com/watch?v=4R2CDbw4g88)
 
 ## Blog Posts
 
@@ -79,6 +79,7 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [Forecasting Financial Time Series - Part I](https://www.quantstart.com/articles/Forecasting-Financial-Time-Series-Part-1)
 1. [Python for Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
 1. [Baysien Cone](https://blog.quantopian.com/bayesian-cone/)
+1. [Sentiment Analysis and Algorithm Trading](https://www.linkedin.com/pulse/sentiment-analysis-algorithm-trading-haohan-wang/)
 
 ## Tools
 
