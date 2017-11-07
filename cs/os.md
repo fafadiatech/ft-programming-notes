@@ -20,3 +20,4 @@
 1. [Kernel 101](http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 1. [How does V8 engine work](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
 1. [Just in time compiler](https://en.wikipedia.org/wiki/Just-in-time_compilation)
+1. [Experiences from a Decade of TinyOS Development](http://www.win.tue.nl/~mholende/interesting/tinyos-retrospective-osdi2012.pdf)

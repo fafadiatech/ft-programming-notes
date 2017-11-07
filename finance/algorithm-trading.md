@@ -69,6 +69,7 @@ Note: `context.portfolio.positions` is where all of our open positions are store
 1. [How I Became A Quant 3/1/2017](https://www.youtube.com/watch?v=xA_PLDOt1ms)
 1. [Whats a hedge fund?](https://www.youtube.com/watch?v=5ItfdOC1B9Q)
 1. [Trading 212 Trading Strategies: How to Trade Moving Averages (Part 1)](https://www.youtube.com/watch?v=4R2CDbw4g88)
+1. [Trading 212 Trading Strategies: How to Trade Breakouts](https://www.youtube.com/watch?v=yGfAUia6b_g)
 
 ## Blog Posts
 
