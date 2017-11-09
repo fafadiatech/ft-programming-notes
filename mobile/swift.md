@@ -60,3 +60,17 @@ watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
 1. [App Coda](https://www.appcoda.com/swift-2/)
 1. [Code Tutplus](https://code.tutsplus.com/categories/ios)
 1. [Test Basics - Beginning iOS Unit and UI Testing](https://www.youtube.com/watch?v=SewTX1Rqklg&list=PL23Revp-82LKah2Jb1glbUhdIunzGPEdd&index=4)
+
+## Misc Notes:
+1. Class Extensions in Swift: https://www.youtube.com/watch?v=4rU1WWVWHTU
+	- Uses of class extensions in real world: https://cocoacasts.com/four-clever-uses-of-swift-extensions/
+	- Capabilities of class extensions: https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Extensions.html
+1. Optional Chaining: https://www.youtube.com/watch?v=0PglhZ2_qhU
+1. Closure: https://www.youtube.com/watch?v=fVF_tNcIhfc
+	- https://stackoverflow.com/questions/29824488/when-to-use-closures-in-swift
+	- https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html
+1. Singleton Pattern: https://www.youtube.com/watch?v=BXmT6R0BxVk
+
+
+## Blogs
+1. [Cocoacasts](https://cocoacasts.com/blog/)
