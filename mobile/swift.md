@@ -71,7 +71,7 @@ watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
 	- [Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
 1. [Singleton Pattern](https://www.youtube.com/watch?v=BXmT6R0BxVk)
 1. [Swift SQLite Integration](https://www.youtube.com/watch?v=fa6daGR9ozk)
-
+1. [AutoLayout](https://www.youtube.com/watch?v=9RydRg0ZKaI)
 
 ## Blogs
 1. [Cocoacasts](https://cocoacasts.com/blog/)
