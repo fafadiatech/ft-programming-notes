@@ -120,3 +120,8 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 1. [Hey Siri: An On-device DNN-powered Voice Trigger for Apple’s Personal Assistant](https://machinelearning.apple.com/2017/10/01/hey-siri.html)
 1. [What does AI code look like?](https://www.quora.com/What-does-AI-code-look-like/answer/Mikkel-Duif?srid=a9)
 1. [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+1. [Using neural networks to detect car crashes in dashcam footage](https://blog.insightdatascience.com/crash-catcher-detecting-car-crashes-in-video-9c0522b04558)
+1. [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+1. [What is the state of art in scanned document text detection, Optical Character recognition (OCR) pipeline from a computer vision perspective ?](https://www.quora.com/What-is-the-state-of-art-in-scanned-document-text-detection-Optical-Character-recognition-OCR-pipeline-from-a-computer-vision-perspective)
+1. [Nordic.js 2017 • Amir Hossein Rahnama - Lightning talk: Machine Learning Intuitions for DeepLearn.js](https://www.youtube.com/watch?v=5bwlH0j5rQk)
+1. [An Overview of the Tesseract OCR Engine](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E6122958EB8D16F13E0EEC460D6207E5?doi=10.1.1.308.445&rep=rep1&type=pdf)
