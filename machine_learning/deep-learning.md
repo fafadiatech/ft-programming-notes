@@ -125,3 +125,5 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 1. [What is the state of art in scanned document text detection, Optical Character recognition (OCR) pipeline from a computer vision perspective ?](https://www.quora.com/What-is-the-state-of-art-in-scanned-document-text-detection-Optical-Character-recognition-OCR-pipeline-from-a-computer-vision-perspective)
 1. [Nordic.js 2017 • Amir Hossein Rahnama - Lightning talk: Machine Learning Intuitions for DeepLearn.js](https://www.youtube.com/watch?v=5bwlH0j5rQk)
 1. [An Overview of the Tesseract OCR Engine](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E6122958EB8D16F13E0EEC460D6207E5?doi=10.1.1.308.445&rep=rep1&type=pdf)
+1. [Tesseract.js](https://github.com/naptha/tesseract.js#tesseractjs)
+1. [ConvNetJS – Deep Learning in your browser](https://www.youtube.com/watch?v=nAHcrz5hxc4)
