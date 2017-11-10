@@ -73,6 +73,7 @@ watch?v=ilQ-tq772VI&list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai)
 1. [Swift SQLite Integration](https://www.youtube.com/watch?v=fa6daGR9ozk)
 1. [AutoLayout](https://www.youtube.com/watch?v=9RydRg0ZKaI)
 1. [UICollectionView tutorial](https://www.youtube.com/watch?v=nPf5X5z0eA4&t=199s)
+1. [Mark Moeykens](https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg/videos)
 
 ## Blogs
 1. [Cocoacasts](https://cocoacasts.com/blog/)
