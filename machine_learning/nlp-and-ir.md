@@ -18,6 +18,8 @@
 1. [Rule Based Expert System](https://staff.informatics.buu.ac.th/~krisana/975352/handout/Lecture06.pdf)
 1. [NLTK Book](http://www.nltk.org/book/)
 1. [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
+1. [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
+1. [Pytorch implementations of various Deep NLP models](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 
 ## Libraries and Tools
 
