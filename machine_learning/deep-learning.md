@@ -9,7 +9,8 @@
 1. [deeplearn.js Tutorial](https://deeplearnjs.org/docs/tutorials/intro.html)
 1. [Github: Teachable Machine Learning](https://github.com/googlecreativelab/teachable-machine)
 1. [pyTorch Zero to All](https://github.com/hunkim/PyTorchZeroToAll)
-
+1. [Integrating Keras & TensorFlow: The Keras workflow, expanded](https://www.youtube.com/watch?v=UeheTiBJ0Io)
+1. [Deep Learning: Keras Short Tutorial](https://www.youtube.com/wavenet-generative-model-raw-audioch?v=Tp3SaRbql4k)
 
 
 ## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
