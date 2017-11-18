@@ -121,3 +121,4 @@
 1. [Tutorial – Getting Started with GraphLab For Machine Learning in Python](https://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
 1. [Wrapping C with Python](Wrapping C with Python)
 1. [What are some Cool Python Tricks](https://www.quora.com/What-are-some-cool-Python-tricks)
+1. [A Beginner’s Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)

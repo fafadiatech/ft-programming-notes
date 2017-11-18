@@ -128,3 +128,4 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 1. [An Overview of the Tesseract OCR Engine](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=E6122958EB8D16F13E0EEC460D6207E5?doi=10.1.1.308.445&rep=rep1&type=pdf)
 1. [Tesseract.js](https://github.com/naptha/tesseract.js#tesseractjs)
 1. [ConvNetJS – Deep Learning in your browser](https://www.youtube.com/watch?v=nAHcrz5hxc4)
+1. [OCR AND MEDIEVAL MANUSCRIPTS: ESTABLISHING A BASELINE](https://brandonwhawk.net/2015/04/20/ocr-and-medieval-manuscripts-establishing-a-baseline/)
