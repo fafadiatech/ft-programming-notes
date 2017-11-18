@@ -9,6 +9,7 @@
 1. [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 1. [CppCon 2017: Alfred Bratterud “Deconstructing the OS: The devil’s In the side effects”](https://www.youtube.com/watch?v=h7D88U-5pKc&feature=youtu.be)
 1. [A Comprehensive Super Mario Bros. Disassembly](https://gist.github.com/1wErt3r/4048722)
+1. [Introduction to Computer OrganizationARM Assembly Language Using the Raspberry Pi](http://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html)
 
 ## Blog Posts
 

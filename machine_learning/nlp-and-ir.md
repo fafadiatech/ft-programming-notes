@@ -20,6 +20,7 @@
 1. [Natural Language Processing Tasks and Selected References](https://github.com/Kyubyong/nlp_tasks)
 1. [State-of-the-art result for all Machine Learning Problems](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems)
 1. [Pytorch implementations of various Deep NLP models](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+1. [Stanford: CS224N Natural Language Processing with Deep Learning](https://www.youtube.com/watch?v=OQQ-W_63UgQ)
 
 ## Libraries and Tools
 
