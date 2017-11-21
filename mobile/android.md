@@ -161,3 +161,5 @@ Android QR Code Scanner Tutorial using Zxing Library](https://www.simplifiedcodi
 1. [25 Android libraries you definitely want to try out in early 2017](https://medium.freecodecamp.org/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0)
 1. [Self learning guide for Android](https://docs.google.com/document/d/1LhZfkFv7BQjWFPL_VtyzJOrz5TevSqTSjldmiM2rrOI/edit)
 1. [UI testing with Espresso](https://www.youtube.com/watch?v=kL3MCQV2M2s)
+1. [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
+1. 
