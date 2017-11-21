@@ -12,6 +12,12 @@
 1. [Integrating Keras & TensorFlow: The Keras workflow, expanded](https://www.youtube.com/watch?v=UeheTiBJ0Io)
 1. [Deep Learning: Keras Short Tutorial](https://www.youtube.com/wavenet-generative-model-raw-audioch?v=Tp3SaRbql4k)
 
+## Books and Training Material
+1. [Theories of Deep Learning](https://stats385.github.io/readings) 
+1. [Deep Learning by Goodfellow et. al](http://www.deeplearningbook.org/)
+1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+1. [Brown CS 242: Probabilistic Graphical Models](http://cs.brown.edu/courses/csci2420/lectures/)
+1. [Deep Learning with Keras](https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
 
 ## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
 
