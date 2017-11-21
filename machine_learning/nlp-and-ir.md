@@ -31,6 +31,8 @@
 1. [Thot: a Toolkit for Statistical Machine Translation](http://daormar.github.io/thot/#toc--introduction)
 1. [Giza++](http://www.fjoch.com/GIZA++.html)
 1. [Rasa Core and NLP](https://github.com/RasaHQ)
+1. [newspaper](https://github.com/codelucas/newspaper)
+1. [webmagic](https://github.com/code4craft/webmagic)
 
 ## Papers
 
@@ -43,7 +45,8 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Robo-Advisors: A Portfolio Management Prespectic](http://economics.yale.edu/sites/default/files/files/Undergraduate/Nominated%20Senior%20Essays/2015-16/Jonathan_Lam_Senior%20Essay%20Revised.pdf)
 1. [FPGA-based Accelerators for “Learning to Rank” in Web Search Engines](http://www.cs.cmu.edu/~dst/NIPS/nips08-workshop/Ning-Yi_Xu.pdf)
 1. [FastText.zip: Compressing Text Classification Models](https://arxiv.org/pdf/1612.03651.pdf)
-
+1. [QuickScorer: a Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees](http://zola.di.unipi.it/rossano/wp-content/papercite-data/pdf/sigir15.pdf)
+1. [Partitioned Elias-Fano Indexes](http://www.di.unipi.it/~ottavian/files/elias_fano_sigir14.pdf)
 
 ## Blog Articles
 
@@ -61,3 +64,5 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Language Models, Word2Vec, and Efficient Softmax Approximations](http://rohanvarma.me/Word2Vec/)
 1. [Neural Language Modeling From Scratch (Part 1)](http://ofir.io/Neural-Language-Modeling-From-Scratch/?a=1)
 1. [Google Bottery](https://github.com/google/bottery)
+1. [Elias-Fano: quasi-succinct compression of sorted integers in C#](http://blog.faroo.com/2016/08/22/elias-fano_quasi-succinct_compression_of_sorted_integers_in_csharp/)
+1. [SLING: A Natural Language Frame Semantic Parser](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)

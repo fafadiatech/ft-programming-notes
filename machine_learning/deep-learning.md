@@ -129,3 +129,5 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 1. [Tesseract.js](https://github.com/naptha/tesseract.js#tesseractjs)
 1. [ConvNetJS – Deep Learning in your browser](https://www.youtube.com/watch?v=nAHcrz5hxc4)
 1. [OCR AND MEDIEVAL MANUSCRIPTS: ESTABLISHING A BASELINE](https://brandonwhawk.net/2015/04/20/ocr-and-medieval-manuscripts-establishing-a-baseline/)
+1. [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+1. [200 universities just launched 600 free online courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)

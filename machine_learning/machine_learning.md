@@ -2,6 +2,8 @@
 
 ## Course
 1. [Stanford: CS231n Computer Vision](https://www.youtube.com/watch?v=vT1JzLTH4G4)
+1. [Collection of Good Videos on Machine Learning](https://www.youtube.com/user/victorlavrenko/videos)
+1. [Collection of Good Videos on Machine Learning](https://www.youtube.com/user/atihler/videos)
 
 ## Blog Posts
 
