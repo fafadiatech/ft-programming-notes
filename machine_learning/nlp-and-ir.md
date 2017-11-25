@@ -66,3 +66,4 @@ Survey and Experiments](https://www.researchgate.net/profile/Robin_Burke/publica
 1. [Google Bottery](https://github.com/google/bottery)
 1. [Elias-Fano: quasi-succinct compression of sorted integers in C#](http://blog.faroo.com/2016/08/22/elias-fano_quasi-succinct_compression_of_sorted_integers_in_csharp/)
 1. [SLING: A Natural Language Frame Semantic Parser](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)
+1. [Faiss: A library for efficient similarity search](https://code.facebook.com/posts/1373769912645926/faiss-a-library-for-efficient-similarity-search/)
