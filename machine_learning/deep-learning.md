@@ -18,6 +18,7 @@
 1. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 1. [Brown CS 242: Probabilistic Graphical Models](http://cs.brown.edu/courses/csci2420/lectures/)
 1. [Deep Learning with Keras](https://www.youtube.com/playlist?list=PLVBorYCcu-xX3Ppjb_sqBd_Xf6GqagQyl)
+1. [Deep Learning for OCR](https://github.com/hs105/Deep-Learning-for-OCR)
 
 ## [DeepLearning.tv](https://www.youtube.com/watch?v=b99UVkWzYTQ)
 
