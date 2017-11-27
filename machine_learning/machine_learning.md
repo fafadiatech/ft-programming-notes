@@ -15,3 +15,5 @@
 1. [DeepAA - Ascii Art using Deep Learning](https://github.com/OsciiArt/DeepAA)
 1. [Keras with TensorFlow](http://cv-tricks.com/tensorflow-tutorial/keras/)
 1. [Hunch.net](http://hunch.net/)
+1. [How and why to create a good validation set](http://www.fast.ai/2017/11/13/validation-sets/)
+1. 

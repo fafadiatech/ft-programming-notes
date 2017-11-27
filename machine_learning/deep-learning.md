@@ -138,3 +138,6 @@ Note: [DeepSchool.io](https://github.com/sachinruk/deepschool.io) has also opens
 1. [OCR AND MEDIEVAL MANUSCRIPTS: ESTABLISHING A BASELINE](https://brandonwhawk.net/2015/04/20/ocr-and-medieval-manuscripts-establishing-a-baseline/)
 1. [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 1. [200 universities just launched 600 free online courses](https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/)
+1. [What you need to do deep learning](http://www.fast.ai/2017/11/16/what-you-need/)
+1. [A friendly Introduction to Backpropagation in Python](https://sushant-choudhary.github.io/blog/2017/11/25/a-friendly-introduction-to-backrop-in-python.html)
+1. [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
