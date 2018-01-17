@@ -12,6 +12,7 @@
 1. [A - Z List of Trading Strategies](http://www.optionstrading.org/strategies/a-z-list/)
 1. [How Trading System Functions](https://www.quantinsti.com/blog/trading-systems-architecture/)
 1. [CppCon 2017: Carl Cook “When a Microsecond Is an Eternity: High Performance Trading Systems in C++”](https://www.youtube.com/watch?v=NH1Tta7purM&feature=youtu.be)
+1. [Quantopian: Trading Strategy Ideas](https://www.quantopian.com/posts/trading-strategy-ideas-thread)
 
 ## Quantopian Algorithm Building
 
